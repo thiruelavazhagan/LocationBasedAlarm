@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.gts.alaram">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission xmlns:tools="http://schemas.android.com/tools"
+        android:name="android.permission.READ_PHONE_STATE"
+        tools:node="remove" />
+    <uses-feature android:name="android.hardware.location.gps" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.gts.alaram.MainActivity"
+            android:label="AlaramRemainder"
+            android:theme="@style/TranslucentTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.gts.alaram.SettingsActivity"
+            android:label="@string/title_settings"
+            android:parentActivityName="com.example.gts.alaram.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.gts.alaram.DetailActivity"
+            android:label="Task Detail"
+            android:parentActivityName="com.example.gts.alaram.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.gts.alaram.AlarmActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:label="Alarm"
+            android:launchMode="singleInstance"
+            android:parentActivityName="com.example.gts.alaram.MainActivity"
+            android:showOnLockScreen="true"
+            android:showWhenLocked="true"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:turnScreenOn="true" />
+        <activity
+            android:name="com.example.gts.alaram.OnboardingActivity"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.gts.alaram.TaskCreatorActivity"
+            android:exported="true"
+            android:label="@string/title_add_new_task"
+            android:parentActivityName="com.example.gts.alaram.MainActivity"
+            android:theme="@style/AppTheme"/>
+
+        <service
+            android:name="com.example.gts.alaram.services.ActivityDetectionService"
+            android:enabled="true"
+            android:stopWithTask="false" />
+        <service
+            android:name="com.example.gts.alaram.services.FusedLocationService"
+            android:enabled="true"
+            android:stopWithTask="false" />
+
+        <receiver
+            android:name="com.example.gts.alaram.MainActivity$BootCompletedReceiver"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+
+        <!-- FCM services.. -->
+        <service android:name="com.example.gts.alaram.fcm.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="com.example.gts.alaram.fcm.MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyBmcC3W4N88Q0F44Clp4MfA0mZ-zdr1YUY" />
+
+    </application>
+
+</manifest>

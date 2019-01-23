@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">454199838904-8svki98osok55tsd3g3du4hsmsu8291h.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://task-nearby-cfd63.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">454199838904</string>
+    <string name="google_api_key" translatable="false">AIzaSyAOmzGbieId4poefe8l88gvTo_-h1dpQuQ</string>
+    <string name="google_app_id" translatable="false">1:454199838904:android:3b7d5f7f4ed4dafb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOmzGbieId4poefe8l88gvTo_-h1dpQuQ</string>
+    <string name="google_storage_bucket" translatable="false">task-nearby-cfd63.appspot.com</string>
+    <string name="project_id" translatable="false">task-nearby-cfd63</string>
+</resources>

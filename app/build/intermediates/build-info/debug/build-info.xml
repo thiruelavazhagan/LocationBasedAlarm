@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="24"
+    build-mode="FULL"
+    density="xxhdpi"
+    format="10"
+    plugin-version="3.2.1"
+    timestamp="1548206018785"
+    token="7223833086271162196"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1137" />
+    <task
+        name="verifier"
+        duration="195" />
+
+    <artifact
+        location="C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1548206018785"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>
