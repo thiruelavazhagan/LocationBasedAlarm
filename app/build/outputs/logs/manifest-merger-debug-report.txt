@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
 MERGED from [com.github.TouchBoarder:weekdays-buttons-bar:v1.0.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-weekdays-buttons-bar-v1.0.2.aar\940746b25186211537ea37e219a65026\AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\bf0aaa7984eba514d8b7be845eb3f658\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\1f9d655b973f481fb84fb698a71a0223\AndroidManifest.xml:17:1-22:12
@@ -78,27 +78,27 @@ MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.6] C:\Users\thiru\
 MERGED from [com.crashlytics.sdk.android:answers:1.4.5] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-answers-1.4.5.aar\fb9a2a2cc0cb50fbe15e7c0e52617733\AndroidManifest.xml:2:1-13:12
 MERGED from [io.fabric.sdk.android:fabric:1.4.6] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\fabric-1.4.6.aar\c02e867f6ce0557083c9130f7095d9f6\AndroidManifest.xml:22:1-33:12
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\24ab2350e4bcbbc6f40b1c9a5cd4c9f6\AndroidManifest.xml:2:1-14:12
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
 	package
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:4:5-37
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:4:5-37
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:3:5-51
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:1-107:12
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:7:5-67
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\2b2fac85e3c4a81d4ad7079430ccfa19\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\2b2fac85e3c4a81d4ad7079430ccfa19\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-perf:16.2.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-perf-16.2.2.aar\77f42a6da36847b8a855d1bd967948f4\AndroidManifest.xml:22:5-67
@@ -122,55 +122,55 @@ MERGED from [com.crashlytics.sdk.android:answers:1.4.5] C:\Users\thiru\.gradle\c
 MERGED from [io.fabric.sdk.android:fabric:1.4.6] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\fabric-1.4.6.aar\c02e867f6ce0557083c9130f7095d9f6\AndroidManifest.xml:29:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.6] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\fabric-1.4.6.aar\c02e867f6ce0557083c9130f7095d9f6\AndroidManifest.xml:29:5-67
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:7:22-64
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:7:22-64
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:8:5-81
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:8:22-78
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:9:5-79
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:9:22-76
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.VIBRATE
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:10:5-66
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:10:5-66
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:10:22-63
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:10:22-63
 uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:11:5-94
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:11:5-94
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:11:22-91
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:11:22-91
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:12:5-80
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:12:5-80
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:12:22-77
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:13:5-81
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:13:22-78
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:13:22-78
 uses-permission#com.android.vending.BILLING
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:14:5-67
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:14:5-67
 MERGED from [com.android.billingclient:billing:1.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-billing-1.0.aar\e312d2d041f6a2db8f6a4d526fff2347\AndroidManifest.xml:9:5-67
 MERGED from [com.android.billingclient:billing:1.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-billing-1.0.aar\e312d2d041f6a2db8f6a4d526fff2347\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:14:22-64
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:15:5-77
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:15:5-77
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:15:22-74
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:15:22-74
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:16:5-18:31
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:16:5-18:31
 	tools:node
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:18:9-28
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:18:9-28
 	xmlns:tools
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:16:22-68
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:16:22-68
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:17:9-59
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:17:9-59
 uses-feature#android.hardware.location.gps
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:19:5-66
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:19:5-66
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:19:19-63
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:19:19-63
 application
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:21:5-105:19
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:21:5-91:19
 MERGED from [com.github.TouchBoarder:weekdays-buttons-bar:v1.0.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-weekdays-buttons-bar-v1.0.2.aar\940746b25186211537ea37e219a65026\AndroidManifest.xml:11:5-20
 MERGED from [com.github.TouchBoarder:weekdays-buttons-bar:v1.0.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-weekdays-buttons-bar-v1.0.2.aar\940746b25186211537ea37e219a65026\AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\bf0aaa7984eba514d8b7be845eb3f658\AndroidManifest.xml:22:5-20
@@ -250,157 +250,129 @@ MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\thiru\
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\7c401e79562ee8a94ef7e886d2e77f4b\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:26:9-35
 	android:label
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:24:9-41
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:24:9-41
 	android:roundIcon
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:25:9-54
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:25:9-54
 	android:icon
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:23:9-43
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:23:9-43
 	android:allowBackup
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:22:9-35
 	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:27:9-40
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:27:9-40
 activity#com.example.gts.alaram.MainActivity
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:28:9-37:20
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:28:9-37:20
 	android:label
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:30:13-44
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:30:13-44
 	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:31:13-52
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:31:13-52
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:29:13-63
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:29:13-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:32:13-36:29
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:32:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:33:17-69
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:33:17-69
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:33:25-66
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:33:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:35:17-77
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:35:27-74
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:35:27-74
 activity#com.example.gts.alaram.SettingsActivity
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:39:9-43:59
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:39:9-43:59
 	android:parentActivityName
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:42:13-77
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:42:13-77
 	android:label
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:41:13-51
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:41:13-51
 	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:43:13-56
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:43:13-56
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:40:13-67
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:40:13-67
 activity#com.example.gts.alaram.DetailActivity
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:44:9-48:59
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:44:9-48:59
 	android:parentActivityName
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:47:13-77
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:47:13-77
 	android:label
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:46:13-40
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:46:13-40
 	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:48:13-56
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:48:13-56
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:45:13-65
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:45:13-65
 activity#com.example.gts.alaram.AlarmActivity
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:49:9-59:43
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:49:9-59:43
 	android:parentActivityName
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:55:13-77
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:55:13-77
 	android:label
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:53:13-34
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:53:13-34
 	android:turnScreenOn
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:59:13-40
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:59:13-40
 	android:excludeFromRecents
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:51:13-46
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:51:13-46
 	android:showWhenLocked
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:57:13-42
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:57:13-42
 	android:launchMode
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:54:13-48
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:54:13-48
 	android:exported
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:52:13-36
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:52:13-36
 	android:showOnLockScreen
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:56:13-44
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:56:13-44
 	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:58:13-56
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:58:13-56
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:50:13-64
-activity#com.example.gts.alaram.OnboardingActivity
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:60:9-63:59
-	android:exported
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:62:13-36
-	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:63:13-56
-	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:61:13-69
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:50:13-64
 activity#com.example.gts.alaram.TaskCreatorActivity
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:64:9-68:46
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:60:9-64:46
 	android:parentActivityName
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:67:13-77
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:63:13-77
 	android:label
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:66:13-55
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:62:13-55
 	android:exported
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:65:13-36
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:61:13-36
 	android:theme
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:68:13-44
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:64:13-44
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:64:19-76
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:60:19-76
 service#com.example.gts.alaram.services.ActivityDetectionService
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:70:9-73:44
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:66:9-69:44
 	android:enabled
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:72:13-35
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:68:13-35
 	android:stopWithTask
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:73:13-41
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:69:13-41
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:71:13-84
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:67:13-84
 service#com.example.gts.alaram.services.FusedLocationService
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:74:9-77:44
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:70:9-73:44
 	android:enabled
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:76:13-35
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:72:13-35
 	android:stopWithTask
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:77:13-41
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:73:13-41
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:75:13-80
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:71:13-80
 receiver#com.example.gts.alaram.MainActivity$BootCompletedReceiver
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:79:9-86:20
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:75:9-82:20
 	android:enabled
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:81:13-35
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:77:13-35
 	android:exported
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:82:13-37
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:78:13-37
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:80:13-85
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:76:13-85
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:83:13-85:29
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:79:13-81:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:84:17-79
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:80:17-79
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:84:25-76
-service#com.example.gts.alaram.fcm.MyFirebaseMessagingService
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:90:9-94:19
-	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:90:18-86
-intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:91:13-93:29
-action#com.google.firebase.MESSAGING_EVENT
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:92:17-78
-	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:92:25-75
-service#com.example.gts.alaram.fcm.MyFirebaseInstanceIDService
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:95:9-99:19
-	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:95:18-87
-intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:96:13-98:29
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:97:17-80
-	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:97:25-77
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:80:25-76
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:101:9-103:71
+ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:87:9-89:71
 	android:value
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:103:13-68
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:89:13-68
 	android:name
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml:102:13-58
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml:88:13-58
 uses-sdk
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 MERGED from [com.github.TouchBoarder:weekdays-buttons-bar:v1.0.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-weekdays-buttons-bar-v1.0.2.aar\940746b25186211537ea37e219a65026\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.TouchBoarder:weekdays-buttons-bar:v1.0.2] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-weekdays-buttons-bar-v1.0.2.aar\940746b25186211537ea37e219a65026\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\bf0aaa7984eba514d8b7be845eb3f658\AndroidManifest.xml:20:5-44
@@ -549,16 +521,16 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.6] C:\Users\thiru\.gradle\caches\t
 MERGED from [io.fabric.sdk.android:fabric:1.4.6] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\fabric-1.4.6.aar\c02e867f6ce0557083c9130f7095d9f6\AndroidManifest.xml:27:5-43
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\24ab2350e4bcbbc6f40b1c9a5cd4c9f6\AndroidManifest.xml:8:5-10:41
 MERGED from [com.amulyakhare:com.amulyakhare.textdrawable:1.0.1] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\com.amulyakhare.textdrawable-1.0.1.aar\24ab2350e4bcbbc6f40b1c9a5cd4c9f6\AndroidManifest.xml:8:5-10:41
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\thiru\AndroidStudioProjects\Alarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\thiru\AndroidStudioProjects\LocationBasedAlarm-master\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.android.gms:play-services-maps:16.0.0] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-play-services-maps-16.0.0.aar\2b2fac85e3c4a81d4ad7079430ccfa19\AndroidManifest.xml:23:5-79
 MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-measurement-connector-impl-17.0.4.aar\f044201d7abc50b3eefef246582f3271\AndroidManifest.xml:23:5-79
@@ -613,6 +585,14 @@ ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradl
 		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.3.4.aar\01380e4e7154f585a02c3171b7baf9c6\AndroidManifest.xml:30:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.3.4.aar\01380e4e7154f585a02c3171b7baf9c6\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.3.4.aar\01380e4e7154f585a02c3171b7baf9c6\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.3.4.aar\01380e4e7154f585a02c3171b7baf9c6\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.3.4.aar\01380e4e7154f585a02c3171b7baf9c6\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-messaging-17.3.4.aar\01380e4e7154f585a02c3171b7baf9c6\AndroidManifest.xml:32:25-75
 provider#com.crashlytics.android.CrashlyticsInitProvider
 ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.7] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\crashlytics-2.9.7.aar\ac591d8bde585e70ae0426e2a35bfeb4\AndroidManifest.xml:12:9-16:38
 	android:authorities
@@ -727,6 +707,14 @@ ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\cach
 		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.4.aar\9f6c1f5aa44053d0fa5c27b853c7604e\AndroidManifest.xml:52:13-36
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.4.aar\9f6c1f5aa44053d0fa5c27b853c7604e\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.4.aar\9f6c1f5aa44053d0fa5c27b853c7604e\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.4.aar\9f6c1f5aa44053d0fa5c27b853c7604e\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.4.aar\9f6c1f5aa44053d0fa5c27b853c7604e\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-firebase-iid-17.0.4.aar\9f6c1f5aa44053d0fa5c27b853c7604e\AndroidManifest.xml:54:25-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\thiru\.gradle\caches\transforms-1\files-1.1\jetified-play-services-base-16.0.1.aar\513ec8305249150cad0ac0f6eaa35417\AndroidManifest.xml:23:9-26:75
 	android:exported

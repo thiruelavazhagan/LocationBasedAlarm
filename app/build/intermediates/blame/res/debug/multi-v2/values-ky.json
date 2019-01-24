@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\Alarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\LocationBasedAlarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
             "map": [
                 {
                     "source": "C:\\Users\\thiru\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\7c401e79562ee8a94ef7e886d2e77f4b\\res\\values-ky\\values-ky.xml",

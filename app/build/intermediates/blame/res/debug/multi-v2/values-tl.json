@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\Alarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
+            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\LocationBasedAlarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-tl\\values-tl.xml",
             "map": [
                 {
                     "source": "C:\\Users\\thiru\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-firebase-messaging-17.3.4.aar\\01380e4e7154f585a02c3171b7baf9c6\\res\\values-tl\\values.xml",

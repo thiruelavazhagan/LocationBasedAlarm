@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\Alarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\LocationBasedAlarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\thiru\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-basement-16.0.1.aar\\0243fc1b1b8304c3b44ff51f09785c3c\\res\\values-pa\\values.xml",

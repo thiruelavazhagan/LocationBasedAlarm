@@ -32,33 +32,14 @@ import com.example.gts.alaram.utils.alarm.AlarmVibrator;
 import com.example.gts.alaram.utils.alarm.VoiceAlarmRinger;
 import com.example.gts.alaram.utils.firebase.AnalyticsConstants;
 
-/**
- * Shows the alarm screen with ringing the alarm tone selected by the user.
- *
- * @author vermayash8
- */
 public class AlarmActivity extends AppCompatActivity implements OnMapReadyCallback {
 
     private static final String TAG = AlarmActivity.class.getSimpleName();
-
-    /**
-     * Extra for the intent using which the taskId will be passed to this activity.
-     */
     private static final String EXTRA_TASK_ID = "taskIdForAlarm";
-
     private AlarmVibrator mAlarmVibrator;
-
     private AlarmRinger mAlarmRinger;
     private VoiceAlarmRinger mVoiceAlarmRinger;
-
-    /**
-     * For interacting with the database.
-     */
     private TaskRepository mTaskRepository;
-
-    /**
-     * Data models retrieved from the database.
-     */
     private TaskModel mTask;
     private LocationModel mTaskLocation;
     private FirebaseAnalytics mFirebaseAnalytics;

@@ -8,7 +8,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion '28.0.3'
     defaultConfig {
-        applicationId 'app.tasknearby.yashcreations.com.tasknearby'
+        applicationId 'com.example.gts.alaram'
         minSdkVersion 17
         targetSdkVersion 28
         versionCode 18
@@ -114,16 +114,11 @@ task checkstyleCheck(type: Checkstyle) {
     source 'src/main'
     include '**/*.java'
     exclude '**/gen/**'
-    // to fail the build when checkstyle is not passed.
+
     ignoreFailures true
     showViolations true
 }
 
-/**
- * Read more about findbugs in android project from these links:
- * https://stackoverflow.com/a/30068813/4857588
- * https://docs.gradle.org/current/dsl/org.gradle.api.plugins.quality.FindBugs.html
- */
 task customFindbugs(type: FindBugs, dependsOn: assemble) {
     ignoreFailures true
     effort "default"

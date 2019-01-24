@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\Alarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "C:\\Users\\thiru\\AndroidStudioProjects\\LocationBasedAlarm-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
                     "source": "C:\\Users\\thiru\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\bf0aaa7984eba514d8b7be845eb3f658\\res\\values-land\\values-land.xml",

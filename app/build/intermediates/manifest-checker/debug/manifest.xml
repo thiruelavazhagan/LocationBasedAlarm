@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="app.tasknearby.yashcreations.com.tasknearby.debug"
+    package="com.example.gts.alaram.debug"
     android:versionCode="18"
     android:versionName="4.0.5" >
 
@@ -75,10 +75,6 @@
             android:theme="@style/AppTheme.NoActionBar"
             android:turnScreenOn="true" />
         <activity
-            android:name="com.example.gts.alaram.OnboardingActivity"
-            android:exported="true"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
             android:name="com.example.gts.alaram.TaskCreatorActivity"
             android:exported="true"
             android:label="@string/title_add_new_task"
@@ -103,25 +99,13 @@
             </intent-filter>
         </receiver>
 
-        <!-- FCM services.. -->
-        <service android:name="com.example.gts.alaram.fcm.MyFirebaseMessagingService" >
-            <intent-filter>
-                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-            </intent-filter>
-        </service>
-        <service android:name="com.example.gts.alaram.fcm.MyFirebaseInstanceIDService" >
-            <intent-filter>
-                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-            </intent-filter>
-        </service>
-
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyBmcC3W4N88Q0F44Clp4MfA0mZ-zdr1YUY" />
 
         <provider
             android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
-            android:authorities="app.tasknearby.yashcreations.com.tasknearby.debug.firebaseperfprovider"
+            android:authorities="com.example.gts.alaram.debug.firebaseperfprovider"
             android:exported="false"
             android:initOrder="101" />
 
@@ -152,7 +136,7 @@
 
         <provider
             android:name="com.crashlytics.android.CrashlyticsInitProvider"
-            android:authorities="app.tasknearby.yashcreations.com.tasknearby.debug.crashlyticsinitprovider"
+            android:authorities="com.example.gts.alaram.debug.crashlyticsinitprovider"
             android:exported="false"
             android:initOrder="90" />
 
@@ -213,7 +197,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="app.tasknearby.yashcreations.com.tasknearby.debug.firebaseinitprovider"
+            android:authorities="com.example.gts.alaram.debug.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -223,12 +207,12 @@
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="app.tasknearby.yashcreations.com.tasknearby.debug.lifecycle-process"
+            android:authorities="com.example.gts.alaram.debug.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
         <provider
             android:name="com.android.tools.ir.server.InstantRunContentProvider"
-            android:authorities="app.tasknearby.yashcreations.com.tasknearby.debug.com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.example.gts.alaram.debug.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

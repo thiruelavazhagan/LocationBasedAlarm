@@ -5108,71 +5108,72 @@ public final class R {
     public static final int ic_list_grey_700_24dp=0x7f08008e;
     public static final int ic_location_on_red_a400_24dp=0x7f08008f;
     public static final int ic_location_on_red_a400_36dp=0x7f080090;
-    public static final int ic_lock_outline_grey_600_48dp=0x7f080091;
-    public static final int ic_map_grey_700_24dp=0x7f080092;
-    public static final int ic_marker_red_a400_36dp=0x7f080093;
-    public static final int ic_menu_feedback_grey_700_24dp=0x7f080094;
-    public static final int ic_menu_info_grey_700_24dp=0x7f080095;
-    public static final int ic_menu_satisfied_blue_a200_24dp=0x7f080096;
-    public static final int ic_menu_settings_grey_700_24dp=0x7f080097;
-    public static final int ic_menu_share=0x7f080098;
-    public static final int ic_menu_very_satisfied_grey_700_24dp=0x7f080099;
-    public static final int ic_mtrl_chip_checked_black=0x7f08009a;
-    public static final int ic_mtrl_chip_checked_circle=0x7f08009b;
-    public static final int ic_mtrl_chip_close_circle=0x7f08009c;
-    public static final int ic_onboard_assistant_trimmed=0x7f08009d;
-    public static final int ic_onboard_productivity=0x7f08009e;
-    public static final int ic_onboard_route_trimmed=0x7f08009f;
-    public static final int ic_photo_camera_white_24dp=0x7f0800a0;
-    public static final int ic_pro_add_image=0x7f0800a1;
-    public static final int ic_pro_date_interval=0x7f0800a2;
-    public static final int ic_pro_note=0x7f0800a3;
-    public static final int ic_pro_repeat_40dp=0x7f0800a4;
-    public static final int ic_pro_route_generate=0x7f0800a5;
-    public static final int ic_pro_snooze=0x7f0800a6;
-    public static final int ic_pro_time_range=0x7f0800a7;
-    public static final int ic_pro_voice_alerts=0x7f0800a8;
-    public static final int ic_rate_review_grey_700_24dp=0x7f0800a9;
-    public static final int ic_repeat_light_blue_500_18dp=0x7f0800aa;
-    public static final int ic_replay_black_24dp=0x7f0800ab;
-    public static final int ic_round_access_time_24px=0x7f0800ac;
-    public static final int ic_round_alarm_24px=0x7f0800ad;
-    public static final int ic_round_camera_alt_24px=0x7f0800ae;
-    public static final int ic_round_date_range_24px=0x7f0800af;
-    public static final int ic_round_keyboard_arrow_down_24px=0x7f0800b0;
-    public static final int ic_round_keyboard_arrow_right_24px=0x7f0800b1;
-    public static final int ic_round_keyboard_arrow_up_24px=0x7f0800b2;
-    public static final int ic_round_location_24=0x7f0800b3;
-    public static final int ic_round_note_add_24px=0x7f0800b4;
-    public static final int ic_round_repeat_24px=0x7f0800b5;
-    public static final int ic_round_search_24dp=0x7f0800b6;
-    public static final int ic_ruler=0x7f0800b7;
-    public static final int ic_share_black_24dp=0x7f0800b8;
-    public static final int ic_star_white_24dp=0x7f0800b9;
-    public static final int ic_stat_notification_small=0x7f0800ba;
-    public static final int mtrl_snackbar_background=0x7f0800bb;
-    public static final int mtrl_tabs_default_indicator=0x7f0800bc;
-    public static final int navigation_empty_icon=0x7f0800bd;
-    public static final int notification_action_background=0x7f0800be;
-    public static final int notification_bg=0x7f0800bf;
-    public static final int notification_bg_low=0x7f0800c0;
-    public static final int notification_bg_low_normal=0x7f0800c1;
-    public static final int notification_bg_low_pressed=0x7f0800c2;
-    public static final int notification_bg_normal=0x7f0800c3;
-    public static final int notification_bg_normal_pressed=0x7f0800c4;
-    public static final int notification_icon_background=0x7f0800c5;
-    public static final int notification_template_icon_bg=0x7f0800c6;
-    public static final int notification_template_icon_low_bg=0x7f0800c7;
-    public static final int notification_tile_bg=0x7f0800c8;
-    public static final int notify_panel_notification_icon_bg=0x7f0800c9;
-    public static final int places_ic_clear=0x7f0800ca;
-    public static final int places_ic_search=0x7f0800cb;
-    public static final int powered_by_google_dark=0x7f0800cc;
-    public static final int powered_by_google_light=0x7f0800cd;
-    public static final int side_nav_bar=0x7f0800ce;
-    public static final int tooltip_frame_dark=0x7f0800cf;
-    public static final int tooltip_frame_light=0x7f0800d0;
-    public static final int transparent=0x7f0800d1;
+    public static final int ic_location_searching_black_24dp=0x7f080091;
+    public static final int ic_lock_outline_grey_600_48dp=0x7f080092;
+    public static final int ic_map_grey_700_24dp=0x7f080093;
+    public static final int ic_marker_red_a400_36dp=0x7f080094;
+    public static final int ic_menu_feedback_grey_700_24dp=0x7f080095;
+    public static final int ic_menu_info_grey_700_24dp=0x7f080096;
+    public static final int ic_menu_satisfied_blue_a200_24dp=0x7f080097;
+    public static final int ic_menu_settings_grey_700_24dp=0x7f080098;
+    public static final int ic_menu_share=0x7f080099;
+    public static final int ic_menu_very_satisfied_grey_700_24dp=0x7f08009a;
+    public static final int ic_mtrl_chip_checked_black=0x7f08009b;
+    public static final int ic_mtrl_chip_checked_circle=0x7f08009c;
+    public static final int ic_mtrl_chip_close_circle=0x7f08009d;
+    public static final int ic_onboard_assistant_trimmed=0x7f08009e;
+    public static final int ic_onboard_productivity=0x7f08009f;
+    public static final int ic_onboard_route_trimmed=0x7f0800a0;
+    public static final int ic_photo_camera_white_24dp=0x7f0800a1;
+    public static final int ic_pro_add_image=0x7f0800a2;
+    public static final int ic_pro_date_interval=0x7f0800a3;
+    public static final int ic_pro_note=0x7f0800a4;
+    public static final int ic_pro_repeat_40dp=0x7f0800a5;
+    public static final int ic_pro_route_generate=0x7f0800a6;
+    public static final int ic_pro_snooze=0x7f0800a7;
+    public static final int ic_pro_time_range=0x7f0800a8;
+    public static final int ic_pro_voice_alerts=0x7f0800a9;
+    public static final int ic_rate_review_grey_700_24dp=0x7f0800aa;
+    public static final int ic_repeat_light_blue_500_18dp=0x7f0800ab;
+    public static final int ic_replay_black_24dp=0x7f0800ac;
+    public static final int ic_round_access_time_24px=0x7f0800ad;
+    public static final int ic_round_alarm_24px=0x7f0800ae;
+    public static final int ic_round_camera_alt_24px=0x7f0800af;
+    public static final int ic_round_date_range_24px=0x7f0800b0;
+    public static final int ic_round_keyboard_arrow_down_24px=0x7f0800b1;
+    public static final int ic_round_keyboard_arrow_right_24px=0x7f0800b2;
+    public static final int ic_round_keyboard_arrow_up_24px=0x7f0800b3;
+    public static final int ic_round_location_24=0x7f0800b4;
+    public static final int ic_round_note_add_24px=0x7f0800b5;
+    public static final int ic_round_repeat_24px=0x7f0800b6;
+    public static final int ic_round_search_24dp=0x7f0800b7;
+    public static final int ic_ruler=0x7f0800b8;
+    public static final int ic_share_black_24dp=0x7f0800b9;
+    public static final int ic_star_white_24dp=0x7f0800ba;
+    public static final int ic_stat_notification_small=0x7f0800bb;
+    public static final int mtrl_snackbar_background=0x7f0800bc;
+    public static final int mtrl_tabs_default_indicator=0x7f0800bd;
+    public static final int navigation_empty_icon=0x7f0800be;
+    public static final int notification_action_background=0x7f0800bf;
+    public static final int notification_bg=0x7f0800c0;
+    public static final int notification_bg_low=0x7f0800c1;
+    public static final int notification_bg_low_normal=0x7f0800c2;
+    public static final int notification_bg_low_pressed=0x7f0800c3;
+    public static final int notification_bg_normal=0x7f0800c4;
+    public static final int notification_bg_normal_pressed=0x7f0800c5;
+    public static final int notification_icon_background=0x7f0800c6;
+    public static final int notification_template_icon_bg=0x7f0800c7;
+    public static final int notification_template_icon_low_bg=0x7f0800c8;
+    public static final int notification_tile_bg=0x7f0800c9;
+    public static final int notify_panel_notification_icon_bg=0x7f0800ca;
+    public static final int places_ic_clear=0x7f0800cb;
+    public static final int places_ic_search=0x7f0800cc;
+    public static final int powered_by_google_dark=0x7f0800cd;
+    public static final int powered_by_google_light=0x7f0800ce;
+    public static final int side_nav_bar=0x7f0800cf;
+    public static final int tooltip_frame_dark=0x7f0800d0;
+    public static final int tooltip_frame_light=0x7f0800d1;
+    public static final int transparent=0x7f0800d2;
   }
   public static final class font {
     public static final int nunito=0x7f090000;
@@ -5216,321 +5217,306 @@ public final class R {
     public static final int alignMargins=0x7f0a0023;
     public static final int all=0x7f0a0024;
     public static final int always=0x7f0a0025;
-    public static final int appNameTv=0x7f0a0026;
-    public static final int app_bar_layout=0x7f0a0027;
-    public static final int async=0x7f0a0028;
-    public static final int auto=0x7f0a0029;
-    public static final int barrier=0x7f0a002a;
-    public static final int beginning=0x7f0a002b;
-    public static final int blocking=0x7f0a002c;
-    public static final int bottom=0x7f0a002d;
-    public static final int btn_action_done=0x7f0a002e;
-    public static final int btn_next=0x7f0a002f;
-    public static final int btn_skip=0x7f0a0030;
-    public static final int buttonPanel=0x7f0a0031;
-    public static final int button_cross=0x7f0a0032;
-    public static final int button_delete=0x7f0a0033;
-    public static final int button_mark_done=0x7f0a0034;
-    public static final int button_pick_from_map=0x7f0a0035;
-    public static final int button_purchase=0x7f0a0036;
-    public static final int button_save=0x7f0a0037;
-    public static final int button_upgrade_attachment=0x7f0a0038;
-    public static final int button_upgrade_schedule=0x7f0a0039;
-    public static final int cancel_action=0x7f0a003a;
-    public static final int cardView_attachment=0x7f0a003b;
-    public static final int cardView_essentials=0x7f0a003c;
-    public static final int cardView_schedule=0x7f0a003d;
-    public static final int center=0x7f0a003e;
-    public static final int center_horizontal=0x7f0a003f;
-    public static final int center_vertical=0x7f0a0040;
-    public static final int chains=0x7f0a0041;
-    public static final int checkbox=0x7f0a0042;
-    public static final int chronometer=0x7f0a0043;
-    public static final int clip_horizontal=0x7f0a0044;
-    public static final int clip_vertical=0x7f0a0045;
-    public static final int collapseActionView=0x7f0a0046;
-    public static final int collapsible_toolbar_layout=0x7f0a0047;
-    public static final int container=0x7f0a0048;
-    public static final int content=0x7f0a0049;
-    public static final int contentFrame=0x7f0a004a;
-    public static final int contentPanel=0x7f0a004b;
-    public static final int coordinator=0x7f0a004c;
-    public static final int custom=0x7f0a004d;
-    public static final int customPanel=0x7f0a004e;
-    public static final int dark=0x7f0a004f;
-    public static final int decor_content_parent=0x7f0a0050;
-    public static final int default_activity_button=0x7f0a0051;
-    public static final int descriptionView=0x7f0a0052;
-    public static final int design_bottom_sheet=0x7f0a0053;
-    public static final int design_menu_item_action_area=0x7f0a0054;
-    public static final int design_menu_item_action_area_stub=0x7f0a0055;
-    public static final int design_menu_item_text=0x7f0a0056;
-    public static final int design_navigation_view=0x7f0a0057;
-    public static final int dimensions=0x7f0a0058;
-    public static final int direct=0x7f0a0059;
-    public static final int disableHome=0x7f0a005a;
-    public static final int divider_above_alarm=0x7f0a005b;
-    public static final int divider_above_date=0x7f0a005c;
-    public static final int divider_above_image=0x7f0a005d;
-    public static final int divider_above_repeat=0x7f0a005e;
-    public static final int divider_below_atachment=0x7f0a005f;
-    public static final int divider_below_schedule=0x7f0a0060;
-    public static final int divider_location=0x7f0a0061;
-    public static final int drawer_layout=0x7f0a0062;
-    public static final int editText_location_name=0x7f0a0063;
-    public static final int edit_query=0x7f0a0064;
-    public static final int edit_text_note=0x7f0a0065;
-    public static final int edit_text_reminder_range=0x7f0a0066;
-    public static final int edit_text_task_name=0x7f0a0067;
-    public static final int end=0x7f0a0068;
-    public static final int end_padder=0x7f0a0069;
-    public static final int enterAlways=0x7f0a006a;
-    public static final int enterAlwaysCollapsed=0x7f0a006b;
-    public static final int exitUntilCollapsed=0x7f0a006c;
-    public static final int expand_activities_button=0x7f0a006d;
-    public static final int expanded_menu=0x7f0a006e;
-    public static final int fab=0x7f0a006f;
-    public static final int fab_rate=0x7f0a0070;
-    public static final int fill=0x7f0a0071;
-    public static final int fill_horizontal=0x7f0a0072;
-    public static final int fill_vertical=0x7f0a0073;
-    public static final int filled=0x7f0a0074;
-    public static final int fixed=0x7f0a0075;
-    public static final int forever=0x7f0a0076;
-    public static final int frame_layout_attachment=0x7f0a0077;
-    public static final int frame_layout_schedule=0x7f0a0078;
-    public static final int ghost_view=0x7f0a0079;
-    public static final int gone=0x7f0a007a;
-    public static final int group_divider=0x7f0a007b;
-    public static final int groups=0x7f0a007c;
-    public static final int guide_ver_16dp=0x7f0a007d;
-    public static final int guide_ver_72dp=0x7f0a007e;
-    public static final int guide_ver_8dp=0x7f0a007f;
-    public static final int guide_ver_end_16dp=0x7f0a0080;
-    public static final int guideline=0x7f0a0081;
-    public static final int guideline2=0x7f0a0082;
-    public static final int guideline_16dp=0x7f0a0083;
-    public static final int guideline_right_8dp=0x7f0a0084;
-    public static final int guideline_vertical_16dp=0x7f0a0085;
-    public static final int home=0x7f0a0086;
-    public static final int homeAsUp=0x7f0a0087;
-    public static final int horizontal=0x7f0a0088;
-    public static final int hybrid=0x7f0a0089;
-    public static final int icon=0x7f0a008a;
-    public static final int icon_camera=0x7f0a008b;
-    public static final int icon_date=0x7f0a008c;
-    public static final int icon_group=0x7f0a008d;
-    public static final int icon_image=0x7f0a008e;
-    public static final int icon_note=0x7f0a008f;
-    public static final int icon_only=0x7f0a0090;
-    public static final int icon_repeat=0x7f0a0091;
-    public static final int icon_time=0x7f0a0092;
-    public static final int ifRoom=0x7f0a0093;
-    public static final int image=0x7f0a0094;
-    public static final int imageView=0x7f0a0095;
-    public static final int imageView3=0x7f0a0096;
-    public static final int imageView5=0x7f0a0097;
-    public static final int imageView7=0x7f0a0098;
-    public static final int image_heart=0x7f0a0099;
-    public static final int image_launcher=0x7f0a009a;
-    public static final int image_selected_image=0x7f0a009b;
-    public static final int info=0x7f0a009c;
-    public static final int invisible=0x7f0a009d;
-    public static final int italic=0x7f0a009e;
-    public static final int item_touch_helper_previous_elevation=0x7f0a009f;
-    public static final int labeled=0x7f0a00a0;
-    public static final int largeLabel=0x7f0a00a1;
-    public static final int layoutDots=0x7f0a00a2;
-    public static final int layout_content_attachment=0x7f0a00a3;
-    public static final int layout_content_schedule=0x7f0a00a4;
-    public static final int layout_date=0x7f0a00a5;
-    public static final int layout_date_from=0x7f0a00a6;
-    public static final int layout_date_to=0x7f0a00a7;
-    public static final int layout_reminder_range=0x7f0a00a8;
-    public static final int layout_select_image=0x7f0a00a9;
-    public static final int layout_select_location=0x7f0a00aa;
-    public static final int layout_time_from=0x7f0a00ab;
-    public static final int layout_time_interval=0x7f0a00ac;
-    public static final int layout_time_to=0x7f0a00ad;
-    public static final int left=0x7f0a00ae;
-    public static final int light=0x7f0a00af;
-    public static final int line1=0x7f0a00b0;
-    public static final int line3=0x7f0a00b1;
-    public static final int linearLayout2=0x7f0a00b2;
-    public static final int listMode=0x7f0a00b3;
-    public static final int listView=0x7f0a00b4;
-    public static final int list_item=0x7f0a00b5;
-    public static final int ll_premium_overlay_lock_attachment=0x7f0a00b6;
-    public static final int ll_premium_overlay_lock_schedule=0x7f0a00b7;
-    public static final int masked=0x7f0a00b8;
-    public static final int media_actions=0x7f0a00b9;
-    public static final int message=0x7f0a00ba;
-    public static final int middle=0x7f0a00bb;
-    public static final int mini=0x7f0a00bc;
-    public static final int mtrl_child_content_container=0x7f0a00bd;
-    public static final int mtrl_internal_children_alpha_tag=0x7f0a00be;
-    public static final int multiply=0x7f0a00bf;
-    public static final int nav_all_tasks=0x7f0a00c0;
-    public static final int nav_settings=0x7f0a00c1;
-    public static final int nav_view=0x7f0a00c2;
-    public static final int navigation_header_container=0x7f0a00c3;
-    public static final int never=0x7f0a00c4;
-    public static final int no_task_view=0x7f0a00c5;
-    public static final int none=0x7f0a00c6;
-    public static final int normal=0x7f0a00c7;
-    public static final int notification_background=0x7f0a00c8;
-    public static final int notification_main_column=0x7f0a00c9;
-    public static final int notification_main_column_container=0x7f0a00ca;
-    public static final int outline=0x7f0a00cb;
-    public static final int packed=0x7f0a00cc;
-    public static final int parallax=0x7f0a00cd;
-    public static final int parent=0x7f0a00ce;
-    public static final int parentPanel=0x7f0a00cf;
-    public static final int parent_matrix=0x7f0a00d0;
-    public static final int percent=0x7f0a00d1;
-    public static final int pin=0x7f0a00d2;
-    public static final int place_autocomplete_clear_button=0x7f0a00d3;
-    public static final int place_autocomplete_powered_by_google=0x7f0a00d4;
-    public static final int place_autocomplete_prediction_primary_text=0x7f0a00d5;
-    public static final int place_autocomplete_prediction_secondary_text=0x7f0a00d6;
-    public static final int place_autocomplete_progress=0x7f0a00d7;
-    public static final int place_autocomplete_search_button=0x7f0a00d8;
-    public static final int place_autocomplete_search_input=0x7f0a00d9;
-    public static final int place_autocomplete_separator=0x7f0a00da;
-    public static final int progress_circular=0x7f0a00db;
-    public static final int progress_horizontal=0x7f0a00dc;
-    public static final int radio=0x7f0a00dd;
-    public static final int recycler_saved_places=0x7f0a00de;
-    public static final int recycler_view_location=0x7f0a00df;
-    public static final int recycler_view_tasks=0x7f0a00e0;
-    public static final int right=0x7f0a00e1;
-    public static final int right_icon=0x7f0a00e2;
-    public static final int right_side=0x7f0a00e3;
-    public static final int satellite=0x7f0a00e4;
-    public static final int save_image_matrix=0x7f0a00e5;
-    public static final int save_non_transition_alpha=0x7f0a00e6;
-    public static final int save_scale_type=0x7f0a00e7;
-    public static final int screen=0x7f0a00e8;
-    public static final int scroll=0x7f0a00e9;
-    public static final int scrollIndicatorDown=0x7f0a00ea;
-    public static final int scrollIndicatorUp=0x7f0a00eb;
-    public static final int scrollView=0x7f0a00ec;
-    public static final int scrollable=0x7f0a00ed;
-    public static final int search_badge=0x7f0a00ee;
-    public static final int search_bar=0x7f0a00ef;
-    public static final int search_button=0x7f0a00f0;
-    public static final int search_close_btn=0x7f0a00f1;
-    public static final int search_edit_frame=0x7f0a00f2;
-    public static final int search_go_btn=0x7f0a00f3;
-    public static final int search_mag_icon=0x7f0a00f4;
-    public static final int search_plate=0x7f0a00f5;
-    public static final int search_src_text=0x7f0a00f6;
-    public static final int search_voice_btn=0x7f0a00f7;
-    public static final int select_dialog_listview=0x7f0a00f8;
-    public static final int selected=0x7f0a00f9;
-    public static final int settings_title_toolbar=0x7f0a00fa;
-    public static final int shortcut=0x7f0a00fb;
-    public static final int showCustom=0x7f0a00fc;
-    public static final int showHome=0x7f0a00fd;
-    public static final int showTitle=0x7f0a00fe;
-    public static final int smallLabel=0x7f0a00ff;
-    public static final int snackbar_action=0x7f0a0100;
-    public static final int snackbar_text=0x7f0a0101;
-    public static final int snap=0x7f0a0102;
-    public static final int snapMargins=0x7f0a0103;
-    public static final int spacer=0x7f0a0104;
-    public static final int split_action_bar=0x7f0a0105;
-    public static final int spread=0x7f0a0106;
-    public static final int spread_inside=0x7f0a0107;
-    public static final int src_atop=0x7f0a0108;
-    public static final int src_in=0x7f0a0109;
-    public static final int src_over=0x7f0a010a;
-    public static final int standard=0x7f0a010b;
-    public static final int start=0x7f0a010c;
-    public static final int status_bar_latest_event_content=0x7f0a010d;
-    public static final int stretch=0x7f0a010e;
-    public static final int submenuarrow=0x7f0a010f;
-    public static final int submit_area=0x7f0a0110;
-    public static final int switch_alarm=0x7f0a0111;
-    public static final int switch_anytime=0x7f0a0112;
-    public static final int switch_app_status=0x7f0a0113;
-    public static final int switch_repeat=0x7f0a0114;
-    public static final int tabMode=0x7f0a0115;
-    public static final int tag_transition_group=0x7f0a0116;
-    public static final int tag_unhandled_key_event_manager=0x7f0a0117;
-    public static final int tag_unhandled_key_listeners=0x7f0a0118;
-    public static final int terrain=0x7f0a0119;
-    public static final int text=0x7f0a011a;
-    public static final int text2=0x7f0a011b;
-    public static final int textInputLayout3=0x7f0a011c;
-    public static final int textInputLayout5=0x7f0a011d;
-    public static final int textSpacerNoButtons=0x7f0a011e;
-    public static final int textSpacerNoTitle=0x7f0a011f;
-    public static final int textStart=0x7f0a0120;
-    public static final int textView=0x7f0a0121;
-    public static final int textView14=0x7f0a0122;
-    public static final int textView8=0x7f0a0123;
-    public static final int text_alarm=0x7f0a0124;
-    public static final int text_app_name=0x7f0a0125;
-    public static final int text_app_version=0x7f0a0126;
-    public static final int text_date_from=0x7f0a0127;
-    public static final int text_date_interval=0x7f0a0128;
-    public static final int text_date_to=0x7f0a0129;
-    public static final int text_developer=0x7f0a012a;
-    public static final int text_developer1=0x7f0a012b;
-    public static final int text_developer2=0x7f0a012c;
-    public static final int text_feedback=0x7f0a012d;
-    public static final int text_input_password_toggle=0x7f0a012e;
-    public static final int text_item_name=0x7f0a012f;
-    public static final int text_last_distance=0x7f0a0130;
-    public static final int text_location_name=0x7f0a0131;
-    public static final int text_no_locations=0x7f0a0132;
-    public static final int text_privacy_policy=0x7f0a0133;
-    public static final int text_reminder_range=0x7f0a0134;
-    public static final int text_state=0x7f0a0135;
-    public static final int text_task_name=0x7f0a0136;
-    public static final int text_task_state=0x7f0a0137;
-    public static final int text_time_from=0x7f0a0138;
-    public static final int text_time_range=0x7f0a0139;
-    public static final int text_time_to=0x7f0a013a;
-    public static final int text_units=0x7f0a013b;
-    public static final int text_view=0x7f0a013c;
-    public static final int textinput_counter=0x7f0a013d;
-    public static final int textinput_error=0x7f0a013e;
-    public static final int textinput_helper_text=0x7f0a013f;
-    public static final int time=0x7f0a0140;
-    public static final int title=0x7f0a0141;
-    public static final int titleDividerNoCustom=0x7f0a0142;
-    public static final int titleView=0x7f0a0143;
-    public static final int title_template=0x7f0a0144;
-    public static final int toolbar=0x7f0a0145;
-    public static final int top=0x7f0a0146;
-    public static final int topPanel=0x7f0a0147;
-    public static final int touch_outside=0x7f0a0148;
-    public static final int transition_current_scene=0x7f0a0149;
-    public static final int transition_layout_save=0x7f0a014a;
-    public static final int transition_position=0x7f0a014b;
-    public static final int transition_scene_layoutid_cache=0x7f0a014c;
-    public static final int transition_transform=0x7f0a014d;
-    public static final int tv_date_interval=0x7f0a014e;
-    public static final int tv_select_image=0x7f0a014f;
-    public static final int uniform=0x7f0a0150;
-    public static final int unlabeled=0x7f0a0151;
-    public static final int up=0x7f0a0152;
-    public static final int useLogo=0x7f0a0153;
-    public static final int vertical=0x7f0a0154;
-    public static final int view2=0x7f0a0155;
-    public static final int viewStub_repeat=0x7f0a0156;
-    public static final int view_offset_helper=0x7f0a0157;
-    public static final int view_pager=0x7f0a0158;
-    public static final int visible=0x7f0a0159;
-    public static final int weekday_view=0x7f0a015a;
-    public static final int weekdays_recycler_view=0x7f0a015b;
-    public static final int weekdays_stub=0x7f0a015c;
-    public static final int wide=0x7f0a015d;
-    public static final int withText=0x7f0a015e;
-    public static final int wrap=0x7f0a015f;
-    public static final int wrap_content=0x7f0a0160;
+    public static final int app_bar_layout=0x7f0a0026;
+    public static final int async=0x7f0a0027;
+    public static final int auto=0x7f0a0028;
+    public static final int barrier=0x7f0a0029;
+    public static final int beginning=0x7f0a002a;
+    public static final int blocking=0x7f0a002b;
+    public static final int bottom=0x7f0a002c;
+    public static final int btn_action_done=0x7f0a002d;
+    public static final int buttonPanel=0x7f0a002e;
+    public static final int button_delete=0x7f0a002f;
+    public static final int button_mark_done=0x7f0a0030;
+    public static final int button_save=0x7f0a0031;
+    public static final int button_upgrade_attachment=0x7f0a0032;
+    public static final int button_upgrade_schedule=0x7f0a0033;
+    public static final int cancel_action=0x7f0a0034;
+    public static final int cardView_attachment=0x7f0a0035;
+    public static final int cardView_essentials=0x7f0a0036;
+    public static final int cardView_schedule=0x7f0a0037;
+    public static final int center=0x7f0a0038;
+    public static final int center_horizontal=0x7f0a0039;
+    public static final int center_vertical=0x7f0a003a;
+    public static final int chains=0x7f0a003b;
+    public static final int checkbox=0x7f0a003c;
+    public static final int chronometer=0x7f0a003d;
+    public static final int clip_horizontal=0x7f0a003e;
+    public static final int clip_vertical=0x7f0a003f;
+    public static final int collapseActionView=0x7f0a0040;
+    public static final int collapsible_toolbar_layout=0x7f0a0041;
+    public static final int container=0x7f0a0042;
+    public static final int content=0x7f0a0043;
+    public static final int contentFrame=0x7f0a0044;
+    public static final int contentPanel=0x7f0a0045;
+    public static final int coordinator=0x7f0a0046;
+    public static final int custom=0x7f0a0047;
+    public static final int customPanel=0x7f0a0048;
+    public static final int dark=0x7f0a0049;
+    public static final int decor_content_parent=0x7f0a004a;
+    public static final int default_activity_button=0x7f0a004b;
+    public static final int descriptionView=0x7f0a004c;
+    public static final int design_bottom_sheet=0x7f0a004d;
+    public static final int design_menu_item_action_area=0x7f0a004e;
+    public static final int design_menu_item_action_area_stub=0x7f0a004f;
+    public static final int design_menu_item_text=0x7f0a0050;
+    public static final int design_navigation_view=0x7f0a0051;
+    public static final int dimensions=0x7f0a0052;
+    public static final int direct=0x7f0a0053;
+    public static final int disableHome=0x7f0a0054;
+    public static final int divider_above_alarm=0x7f0a0055;
+    public static final int divider_above_date=0x7f0a0056;
+    public static final int divider_above_image=0x7f0a0057;
+    public static final int divider_above_repeat=0x7f0a0058;
+    public static final int divider_below_atachment=0x7f0a0059;
+    public static final int divider_below_schedule=0x7f0a005a;
+    public static final int divider_location=0x7f0a005b;
+    public static final int drawer_layout=0x7f0a005c;
+    public static final int editText_location_name=0x7f0a005d;
+    public static final int edit_query=0x7f0a005e;
+    public static final int edit_text_note=0x7f0a005f;
+    public static final int edit_text_reminder_range=0x7f0a0060;
+    public static final int edit_text_task_name=0x7f0a0061;
+    public static final int end=0x7f0a0062;
+    public static final int end_padder=0x7f0a0063;
+    public static final int enterAlways=0x7f0a0064;
+    public static final int enterAlwaysCollapsed=0x7f0a0065;
+    public static final int exitUntilCollapsed=0x7f0a0066;
+    public static final int expand_activities_button=0x7f0a0067;
+    public static final int expanded_menu=0x7f0a0068;
+    public static final int fab=0x7f0a0069;
+    public static final int fab_rate=0x7f0a006a;
+    public static final int fill=0x7f0a006b;
+    public static final int fill_horizontal=0x7f0a006c;
+    public static final int fill_vertical=0x7f0a006d;
+    public static final int filled=0x7f0a006e;
+    public static final int fixed=0x7f0a006f;
+    public static final int forever=0x7f0a0070;
+    public static final int frame_layout_attachment=0x7f0a0071;
+    public static final int frame_layout_schedule=0x7f0a0072;
+    public static final int ghost_view=0x7f0a0073;
+    public static final int gone=0x7f0a0074;
+    public static final int group_divider=0x7f0a0075;
+    public static final int groups=0x7f0a0076;
+    public static final int guide_ver_16dp=0x7f0a0077;
+    public static final int guide_ver_72dp=0x7f0a0078;
+    public static final int guide_ver_8dp=0x7f0a0079;
+    public static final int guide_ver_end_16dp=0x7f0a007a;
+    public static final int guideline=0x7f0a007b;
+    public static final int guideline2=0x7f0a007c;
+    public static final int guideline_16dp=0x7f0a007d;
+    public static final int guideline_right_8dp=0x7f0a007e;
+    public static final int guideline_vertical_16dp=0x7f0a007f;
+    public static final int home=0x7f0a0080;
+    public static final int homeAsUp=0x7f0a0081;
+    public static final int horizontal=0x7f0a0082;
+    public static final int hybrid=0x7f0a0083;
+    public static final int icon=0x7f0a0084;
+    public static final int icon_camera=0x7f0a0085;
+    public static final int icon_date=0x7f0a0086;
+    public static final int icon_group=0x7f0a0087;
+    public static final int icon_image=0x7f0a0088;
+    public static final int icon_note=0x7f0a0089;
+    public static final int icon_only=0x7f0a008a;
+    public static final int icon_repeat=0x7f0a008b;
+    public static final int icon_time=0x7f0a008c;
+    public static final int ifRoom=0x7f0a008d;
+    public static final int image=0x7f0a008e;
+    public static final int imageView3=0x7f0a008f;
+    public static final int imageView5=0x7f0a0090;
+    public static final int image_heart=0x7f0a0091;
+    public static final int image_launcher=0x7f0a0092;
+    public static final int image_selected_image=0x7f0a0093;
+    public static final int info=0x7f0a0094;
+    public static final int invisible=0x7f0a0095;
+    public static final int italic=0x7f0a0096;
+    public static final int item_touch_helper_previous_elevation=0x7f0a0097;
+    public static final int labeled=0x7f0a0098;
+    public static final int largeLabel=0x7f0a0099;
+    public static final int layout_content_attachment=0x7f0a009a;
+    public static final int layout_content_schedule=0x7f0a009b;
+    public static final int layout_date=0x7f0a009c;
+    public static final int layout_date_from=0x7f0a009d;
+    public static final int layout_date_to=0x7f0a009e;
+    public static final int layout_reminder_range=0x7f0a009f;
+    public static final int layout_select_image=0x7f0a00a0;
+    public static final int layout_select_location=0x7f0a00a1;
+    public static final int layout_time_from=0x7f0a00a2;
+    public static final int layout_time_interval=0x7f0a00a3;
+    public static final int layout_time_to=0x7f0a00a4;
+    public static final int left=0x7f0a00a5;
+    public static final int light=0x7f0a00a6;
+    public static final int line1=0x7f0a00a7;
+    public static final int line3=0x7f0a00a8;
+    public static final int linearLayout2=0x7f0a00a9;
+    public static final int listMode=0x7f0a00aa;
+    public static final int list_item=0x7f0a00ab;
+    public static final int ll_premium_overlay_lock_attachment=0x7f0a00ac;
+    public static final int ll_premium_overlay_lock_schedule=0x7f0a00ad;
+    public static final int masked=0x7f0a00ae;
+    public static final int media_actions=0x7f0a00af;
+    public static final int message=0x7f0a00b0;
+    public static final int middle=0x7f0a00b1;
+    public static final int mini=0x7f0a00b2;
+    public static final int mtrl_child_content_container=0x7f0a00b3;
+    public static final int mtrl_internal_children_alpha_tag=0x7f0a00b4;
+    public static final int multiply=0x7f0a00b5;
+    public static final int nav_all_tasks=0x7f0a00b6;
+    public static final int nav_settings=0x7f0a00b7;
+    public static final int nav_view=0x7f0a00b8;
+    public static final int navigation_header_container=0x7f0a00b9;
+    public static final int never=0x7f0a00ba;
+    public static final int no_task_view=0x7f0a00bb;
+    public static final int none=0x7f0a00bc;
+    public static final int normal=0x7f0a00bd;
+    public static final int notification_background=0x7f0a00be;
+    public static final int notification_main_column=0x7f0a00bf;
+    public static final int notification_main_column_container=0x7f0a00c0;
+    public static final int outline=0x7f0a00c1;
+    public static final int packed=0x7f0a00c2;
+    public static final int parallax=0x7f0a00c3;
+    public static final int parent=0x7f0a00c4;
+    public static final int parentPanel=0x7f0a00c5;
+    public static final int parent_matrix=0x7f0a00c6;
+    public static final int percent=0x7f0a00c7;
+    public static final int pin=0x7f0a00c8;
+    public static final int place_autocomplete_clear_button=0x7f0a00c9;
+    public static final int place_autocomplete_powered_by_google=0x7f0a00ca;
+    public static final int place_autocomplete_prediction_primary_text=0x7f0a00cb;
+    public static final int place_autocomplete_prediction_secondary_text=0x7f0a00cc;
+    public static final int place_autocomplete_progress=0x7f0a00cd;
+    public static final int place_autocomplete_search_button=0x7f0a00ce;
+    public static final int place_autocomplete_search_input=0x7f0a00cf;
+    public static final int place_autocomplete_separator=0x7f0a00d0;
+    public static final int progress_circular=0x7f0a00d1;
+    public static final int progress_horizontal=0x7f0a00d2;
+    public static final int radio=0x7f0a00d3;
+    public static final int recycler_view_location=0x7f0a00d4;
+    public static final int recycler_view_tasks=0x7f0a00d5;
+    public static final int right=0x7f0a00d6;
+    public static final int right_icon=0x7f0a00d7;
+    public static final int right_side=0x7f0a00d8;
+    public static final int satellite=0x7f0a00d9;
+    public static final int save_image_matrix=0x7f0a00da;
+    public static final int save_non_transition_alpha=0x7f0a00db;
+    public static final int save_scale_type=0x7f0a00dc;
+    public static final int screen=0x7f0a00dd;
+    public static final int scroll=0x7f0a00de;
+    public static final int scrollIndicatorDown=0x7f0a00df;
+    public static final int scrollIndicatorUp=0x7f0a00e0;
+    public static final int scrollView=0x7f0a00e1;
+    public static final int scrollable=0x7f0a00e2;
+    public static final int search_badge=0x7f0a00e3;
+    public static final int search_bar=0x7f0a00e4;
+    public static final int search_button=0x7f0a00e5;
+    public static final int search_close_btn=0x7f0a00e6;
+    public static final int search_edit_frame=0x7f0a00e7;
+    public static final int search_go_btn=0x7f0a00e8;
+    public static final int search_mag_icon=0x7f0a00e9;
+    public static final int search_plate=0x7f0a00ea;
+    public static final int search_src_text=0x7f0a00eb;
+    public static final int search_voice_btn=0x7f0a00ec;
+    public static final int select_dialog_listview=0x7f0a00ed;
+    public static final int selected=0x7f0a00ee;
+    public static final int settings_title_toolbar=0x7f0a00ef;
+    public static final int shortcut=0x7f0a00f0;
+    public static final int showCustom=0x7f0a00f1;
+    public static final int showHome=0x7f0a00f2;
+    public static final int showTitle=0x7f0a00f3;
+    public static final int smallLabel=0x7f0a00f4;
+    public static final int snackbar_action=0x7f0a00f5;
+    public static final int snackbar_text=0x7f0a00f6;
+    public static final int snap=0x7f0a00f7;
+    public static final int snapMargins=0x7f0a00f8;
+    public static final int spacer=0x7f0a00f9;
+    public static final int split_action_bar=0x7f0a00fa;
+    public static final int spread=0x7f0a00fb;
+    public static final int spread_inside=0x7f0a00fc;
+    public static final int src_atop=0x7f0a00fd;
+    public static final int src_in=0x7f0a00fe;
+    public static final int src_over=0x7f0a00ff;
+    public static final int standard=0x7f0a0100;
+    public static final int start=0x7f0a0101;
+    public static final int status_bar_latest_event_content=0x7f0a0102;
+    public static final int stretch=0x7f0a0103;
+    public static final int submenuarrow=0x7f0a0104;
+    public static final int submit_area=0x7f0a0105;
+    public static final int switch_alarm=0x7f0a0106;
+    public static final int switch_anytime=0x7f0a0107;
+    public static final int switch_app_status=0x7f0a0108;
+    public static final int switch_repeat=0x7f0a0109;
+    public static final int tabMode=0x7f0a010a;
+    public static final int tag_transition_group=0x7f0a010b;
+    public static final int tag_unhandled_key_event_manager=0x7f0a010c;
+    public static final int tag_unhandled_key_listeners=0x7f0a010d;
+    public static final int terrain=0x7f0a010e;
+    public static final int text=0x7f0a010f;
+    public static final int text2=0x7f0a0110;
+    public static final int textInputLayout3=0x7f0a0111;
+    public static final int textInputLayout5=0x7f0a0112;
+    public static final int textSpacerNoButtons=0x7f0a0113;
+    public static final int textSpacerNoTitle=0x7f0a0114;
+    public static final int textStart=0x7f0a0115;
+    public static final int textView=0x7f0a0116;
+    public static final int textView14=0x7f0a0117;
+    public static final int text_alarm=0x7f0a0118;
+    public static final int text_app_name=0x7f0a0119;
+    public static final int text_app_version=0x7f0a011a;
+    public static final int text_date_from=0x7f0a011b;
+    public static final int text_date_interval=0x7f0a011c;
+    public static final int text_date_to=0x7f0a011d;
+    public static final int text_developer=0x7f0a011e;
+    public static final int text_developer1=0x7f0a011f;
+    public static final int text_developer2=0x7f0a0120;
+    public static final int text_feedback=0x7f0a0121;
+    public static final int text_input_password_toggle=0x7f0a0122;
+    public static final int text_item_name=0x7f0a0123;
+    public static final int text_last_distance=0x7f0a0124;
+    public static final int text_location_name=0x7f0a0125;
+    public static final int text_privacy_policy=0x7f0a0126;
+    public static final int text_reminder_range=0x7f0a0127;
+    public static final int text_state=0x7f0a0128;
+    public static final int text_task_name=0x7f0a0129;
+    public static final int text_task_state=0x7f0a012a;
+    public static final int text_time_from=0x7f0a012b;
+    public static final int text_time_range=0x7f0a012c;
+    public static final int text_time_to=0x7f0a012d;
+    public static final int text_units=0x7f0a012e;
+    public static final int text_view=0x7f0a012f;
+    public static final int textinput_counter=0x7f0a0130;
+    public static final int textinput_error=0x7f0a0131;
+    public static final int textinput_helper_text=0x7f0a0132;
+    public static final int time=0x7f0a0133;
+    public static final int title=0x7f0a0134;
+    public static final int titleDividerNoCustom=0x7f0a0135;
+    public static final int titleView=0x7f0a0136;
+    public static final int title_template=0x7f0a0137;
+    public static final int toolbar=0x7f0a0138;
+    public static final int top=0x7f0a0139;
+    public static final int topPanel=0x7f0a013a;
+    public static final int touch_outside=0x7f0a013b;
+    public static final int transition_current_scene=0x7f0a013c;
+    public static final int transition_layout_save=0x7f0a013d;
+    public static final int transition_position=0x7f0a013e;
+    public static final int transition_scene_layoutid_cache=0x7f0a013f;
+    public static final int transition_transform=0x7f0a0140;
+    public static final int tv_date_interval=0x7f0a0141;
+    public static final int tv_select_image=0x7f0a0142;
+    public static final int uniform=0x7f0a0143;
+    public static final int unlabeled=0x7f0a0144;
+    public static final int up=0x7f0a0145;
+    public static final int useLogo=0x7f0a0146;
+    public static final int vertical=0x7f0a0147;
+    public static final int viewStub_repeat=0x7f0a0148;
+    public static final int view_offset_helper=0x7f0a0149;
+    public static final int visible=0x7f0a014a;
+    public static final int weekday_view=0x7f0a014b;
+    public static final int weekdays_recycler_view=0x7f0a014c;
+    public static final int weekdays_stub=0x7f0a014d;
+    public static final int wide=0x7f0a014e;
+    public static final int withText=0x7f0a014f;
+    public static final int wrap=0x7f0a0150;
+    public static final int wrap_content=0x7f0a0151;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0b0000;
@@ -5585,69 +5571,64 @@ public final class R {
     public static final int abc_search_view=0x7f0d0019;
     public static final int abc_select_dialog_material=0x7f0d001a;
     public static final int abc_tooltip=0x7f0d001b;
-    public static final int activity_about=0x7f0d001c;
-    public static final int activity_alarm=0x7f0d001d;
-    public static final int activity_detail=0x7f0d001e;
-    public static final int activity_main2=0x7f0d001f;
-    public static final int activity_onboarding=0x7f0d0020;
-    public static final int activity_saved_places=0x7f0d0021;
-    public static final int activity_settings=0x7f0d0022;
-    public static final int activity_show_image=0x7f0d0023;
-    public static final int activity_task_creator=0x7f0d0024;
-    public static final int activity_upgrade=0x7f0d0025;
-    public static final int content_creator_attachment=0x7f0d0026;
-    public static final int content_creator_essentials=0x7f0d0027;
-    public static final int content_creator_schedule=0x7f0d0028;
-    public static final int content_detail=0x7f0d0029;
-    public static final int content_main=0x7f0d002a;
-    public static final int design_bottom_navigation_item=0x7f0d002b;
-    public static final int design_bottom_sheet_dialog=0x7f0d002c;
-    public static final int design_layout_snackbar=0x7f0d002d;
-    public static final int design_layout_snackbar_include=0x7f0d002e;
-    public static final int design_layout_tab_icon=0x7f0d002f;
-    public static final int design_layout_tab_text=0x7f0d0030;
-    public static final int design_menu_item_action_area=0x7f0d0031;
-    public static final int design_navigation_item=0x7f0d0032;
-    public static final int design_navigation_item_header=0x7f0d0033;
-    public static final int design_navigation_item_separator=0x7f0d0034;
-    public static final int design_navigation_item_subheader=0x7f0d0035;
-    public static final int design_navigation_menu=0x7f0d0036;
-    public static final int design_navigation_menu_item=0x7f0d0037;
-    public static final int design_text_input_password_icon=0x7f0d0038;
-    public static final int fragment_main=0x7f0d0039;
-    public static final int fragment_onboarding=0x7f0d003a;
-    public static final int list_item_location=0x7f0d003b;
-    public static final int list_item_location_chip=0x7f0d003c;
-    public static final int list_item_premium_items=0x7f0d003d;
-    public static final int list_item_task=0x7f0d003e;
-    public static final int mtrl_layout_snackbar=0x7f0d003f;
-    public static final int mtrl_layout_snackbar_include=0x7f0d0040;
-    public static final int nav_drawer_header=0x7f0d0041;
-    public static final int notification_action=0x7f0d0042;
-    public static final int notification_action_tombstone=0x7f0d0043;
-    public static final int notification_media_action=0x7f0d0044;
-    public static final int notification_media_cancel_action=0x7f0d0045;
-    public static final int notification_template_big_media=0x7f0d0046;
-    public static final int notification_template_big_media_custom=0x7f0d0047;
-    public static final int notification_template_big_media_narrow=0x7f0d0048;
-    public static final int notification_template_big_media_narrow_custom=0x7f0d0049;
-    public static final int notification_template_custom_big=0x7f0d004a;
-    public static final int notification_template_icon_group=0x7f0d004b;
-    public static final int notification_template_lines_media=0x7f0d004c;
-    public static final int notification_template_media=0x7f0d004d;
-    public static final int notification_template_media_custom=0x7f0d004e;
-    public static final int notification_template_part_chronometer=0x7f0d004f;
-    public static final int notification_template_part_time=0x7f0d0050;
-    public static final int place_autocomplete_fragment=0x7f0d0051;
-    public static final int place_autocomplete_item_powered_by_google=0x7f0d0052;
-    public static final int place_autocomplete_item_prediction=0x7f0d0053;
-    public static final int place_autocomplete_progress=0x7f0d0054;
-    public static final int select_dialog_item_material=0x7f0d0055;
-    public static final int select_dialog_multichoice_material=0x7f0d0056;
-    public static final int select_dialog_singlechoice_material=0x7f0d0057;
-    public static final int support_simple_spinner_dropdown_item=0x7f0d0058;
-    public static final int test=0x7f0d0059;
-    public static final int weekdays_recycler_view=0x7f0d005a;
+    public static final int activity_alarm=0x7f0d001c;
+    public static final int activity_detail=0x7f0d001d;
+    public static final int activity_main2=0x7f0d001e;
+    public static final int activity_settings=0x7f0d001f;
+    public static final int activity_task_creator=0x7f0d0020;
+    public static final int content_creator_attachment=0x7f0d0021;
+    public static final int content_creator_essentials=0x7f0d0022;
+    public static final int content_creator_schedule=0x7f0d0023;
+    public static final int content_detail=0x7f0d0024;
+    public static final int content_main=0x7f0d0025;
+    public static final int design_bottom_navigation_item=0x7f0d0026;
+    public static final int design_bottom_sheet_dialog=0x7f0d0027;
+    public static final int design_layout_snackbar=0x7f0d0028;
+    public static final int design_layout_snackbar_include=0x7f0d0029;
+    public static final int design_layout_tab_icon=0x7f0d002a;
+    public static final int design_layout_tab_text=0x7f0d002b;
+    public static final int design_menu_item_action_area=0x7f0d002c;
+    public static final int design_navigation_item=0x7f0d002d;
+    public static final int design_navigation_item_header=0x7f0d002e;
+    public static final int design_navigation_item_separator=0x7f0d002f;
+    public static final int design_navigation_item_subheader=0x7f0d0030;
+    public static final int design_navigation_menu=0x7f0d0031;
+    public static final int design_navigation_menu_item=0x7f0d0032;
+    public static final int design_text_input_password_icon=0x7f0d0033;
+    public static final int fragment_main=0x7f0d0034;
+    public static final int fragment_onboarding=0x7f0d0035;
+    public static final int list_item_location=0x7f0d0036;
+    public static final int list_item_location_chip=0x7f0d0037;
+    public static final int list_item_premium_items=0x7f0d0038;
+    public static final int list_item_task=0x7f0d0039;
+    public static final int mtrl_layout_snackbar=0x7f0d003a;
+    public static final int mtrl_layout_snackbar_include=0x7f0d003b;
+    public static final int nav_drawer_header=0x7f0d003c;
+    public static final int notification_action=0x7f0d003d;
+    public static final int notification_action_tombstone=0x7f0d003e;
+    public static final int notification_media_action=0x7f0d003f;
+    public static final int notification_media_cancel_action=0x7f0d0040;
+    public static final int notification_template_big_media=0x7f0d0041;
+    public static final int notification_template_big_media_custom=0x7f0d0042;
+    public static final int notification_template_big_media_narrow=0x7f0d0043;
+    public static final int notification_template_big_media_narrow_custom=0x7f0d0044;
+    public static final int notification_template_custom_big=0x7f0d0045;
+    public static final int notification_template_icon_group=0x7f0d0046;
+    public static final int notification_template_lines_media=0x7f0d0047;
+    public static final int notification_template_media=0x7f0d0048;
+    public static final int notification_template_media_custom=0x7f0d0049;
+    public static final int notification_template_part_chronometer=0x7f0d004a;
+    public static final int notification_template_part_time=0x7f0d004b;
+    public static final int place_autocomplete_fragment=0x7f0d004c;
+    public static final int place_autocomplete_item_powered_by_google=0x7f0d004d;
+    public static final int place_autocomplete_item_prediction=0x7f0d004e;
+    public static final int place_autocomplete_progress=0x7f0d004f;
+    public static final int select_dialog_item_material=0x7f0d0050;
+    public static final int select_dialog_multichoice_material=0x7f0d0051;
+    public static final int select_dialog_singlechoice_material=0x7f0d0052;
+    public static final int support_simple_spinner_dropdown_item=0x7f0d0053;
+    public static final int test=0x7f0d0054;
+    public static final int weekdays_recycler_view=0x7f0d0055;
   }
   public static final class menu {
     public static final int menu_about=0x7f0e0000;
@@ -6970,35 +6951,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background app.tasknearby.yashcreations.com.tasknearby.debug:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit app.tasknearby.yashcreations.com.tasknearby.debug:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked app.tasknearby.yashcreations.com.tasknearby.debug:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout app.tasknearby.yashcreations.com.tasknearby.debug:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions app.tasknearby.yashcreations.com.tasknearby.debug:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider app.tasknearby.yashcreations.com.tasknearby.debug:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation app.tasknearby.yashcreations.com.tasknearby.debug:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height app.tasknearby.yashcreations.com.tasknearby.debug:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll app.tasknearby.yashcreations.com.tasknearby.debug:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator app.tasknearby.yashcreations.com.tasknearby.debug:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout app.tasknearby.yashcreations.com.tasknearby.debug:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon app.tasknearby.yashcreations.com.tasknearby.debug:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle app.tasknearby.yashcreations.com.tasknearby.debug:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding app.tasknearby.yashcreations.com.tasknearby.debug:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo app.tasknearby.yashcreations.com.tasknearby.debug:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode app.tasknearby.yashcreations.com.tasknearby.debug:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme app.tasknearby.yashcreations.com.tasknearby.debug:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding app.tasknearby.yashcreations.com.tasknearby.debug:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle app.tasknearby.yashcreations.com.tasknearby.debug:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle app.tasknearby.yashcreations.com.tasknearby.debug:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title app.tasknearby.yashcreations.com.tasknearby.debug:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.example.gts.alaram.debug:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.example.gts.alaram.debug:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.example.gts.alaram.debug:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.gts.alaram.debug:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.gts.alaram.debug:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.gts.alaram.debug:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.example.gts.alaram.debug:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.example.gts.alaram.debug:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.gts.alaram.debug:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.gts.alaram.debug:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.example.gts.alaram.debug:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.example.gts.alaram.debug:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.example.gts.alaram.debug:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.example.gts.alaram.debug:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.gts.alaram.debug:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.gts.alaram.debug:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.example.gts.alaram.debug:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.example.gts.alaram.debug:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.gts.alaram.debug:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.example.gts.alaram.debug:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.example.gts.alaram.debug:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.example.gts.alaram.debug:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.example.gts.alaram.debug:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.example.gts.alaram.debug:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.example.gts.alaram.debug:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.example.gts.alaram.debug:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.gts.alaram.debug:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.example.gts.alaram.debug:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.example.gts.alaram.debug:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -7041,7 +7022,7 @@ public final class R {
       0x7f04021f
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7049,11 +7030,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:background
+     * @attr name com.example.gts.alaram.debug:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7064,11 +7045,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundSplit
+     * @attr name com.example.gts.alaram.debug:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7079,11 +7060,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundStacked
+     * @attr name com.example.gts.alaram.debug:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7092,11 +7073,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEnd
+     * @attr name com.example.gts.alaram.debug:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7105,11 +7086,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEndWithActions
+     * @attr name com.example.gts.alaram.debug:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7118,11 +7099,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetLeft
+     * @attr name com.example.gts.alaram.debug:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7131,11 +7112,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetRight
+     * @attr name com.example.gts.alaram.debug:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7144,11 +7125,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStart
+     * @attr name com.example.gts.alaram.debug:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7157,11 +7138,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStartWithNavigation
+     * @attr name com.example.gts.alaram.debug:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7169,11 +7150,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:customNavigationLayout
+     * @attr name com.example.gts.alaram.debug:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7191,11 +7172,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:displayOptions
+     * @attr name com.example.gts.alaram.debug:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7203,11 +7184,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:divider
+     * @attr name com.example.gts.alaram.debug:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7216,11 +7197,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:elevation
+     * @attr name com.example.gts.alaram.debug:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7229,21 +7210,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:height
+     * @attr name com.example.gts.alaram.debug:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hideOnContentScroll
+     * @attr name com.example.gts.alaram.debug:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7251,11 +7232,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:homeAsUpIndicator
+     * @attr name com.example.gts.alaram.debug:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7263,11 +7244,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:homeLayout
+     * @attr name com.example.gts.alaram.debug:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7275,11 +7256,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:icon
+     * @attr name com.example.gts.alaram.debug:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7287,11 +7268,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:indeterminateProgressStyle
+     * @attr name com.example.gts.alaram.debug:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7300,11 +7281,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemPadding
+     * @attr name com.example.gts.alaram.debug:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7312,11 +7293,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:logo
+     * @attr name com.example.gts.alaram.debug:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7330,11 +7311,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:navigationMode
+     * @attr name com.example.gts.alaram.debug:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7342,11 +7323,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:popupTheme
+     * @attr name com.example.gts.alaram.debug:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7355,11 +7336,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:progressBarPadding
+     * @attr name com.example.gts.alaram.debug:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7367,21 +7348,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:progressBarStyle
+     * @attr name com.example.gts.alaram.debug:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subtitle
+     * @attr name com.example.gts.alaram.debug:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7389,21 +7370,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextStyle
+     * @attr name com.example.gts.alaram.debug:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:title
+     * @attr name com.example.gts.alaram.debug:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7411,7 +7392,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleTextStyle
+     * @attr name com.example.gts.alaram.debug:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -7493,12 +7474,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background app.tasknearby.yashcreations.com.tasknearby.debug:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit app.tasknearby.yashcreations.com.tasknearby.debug:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout app.tasknearby.yashcreations.com.tasknearby.debug:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height app.tasknearby.yashcreations.com.tasknearby.debug:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.example.gts.alaram.debug:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.example.gts.alaram.debug:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.example.gts.alaram.debug:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.example.gts.alaram.debug:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.gts.alaram.debug:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.example.gts.alaram.debug:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -7512,7 +7493,7 @@ public final class R {
       0x7f0401d0, 0x7f04021f
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7520,11 +7501,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:background
+     * @attr name com.example.gts.alaram.debug:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7535,11 +7516,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundSplit
+     * @attr name com.example.gts.alaram.debug:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7547,11 +7528,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeItemLayout
+     * @attr name com.example.gts.alaram.debug:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7560,11 +7541,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:height
+     * @attr name com.example.gts.alaram.debug:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7572,11 +7553,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextStyle
+     * @attr name com.example.gts.alaram.debug:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7584,7 +7565,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleTextStyle
+     * @attr name com.example.gts.alaram.debug:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -7594,8 +7575,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable app.tasknearby.yashcreations.com.tasknearby.debug:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount app.tasknearby.yashcreations.com.tasknearby.debug:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.gts.alaram.debug:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.gts.alaram.debug:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -7604,7 +7585,7 @@ public final class R {
       0x7f0400cf, 0x7f04010e
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7612,17 +7593,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandActivityOverflowButtonDrawable
+     * @attr name com.example.gts.alaram.debug:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:initialActivityCount
+     * @attr name com.example.gts.alaram.debug:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -7633,13 +7614,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen app.tasknearby.yashcreations.com.tasknearby.debug:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout app.tasknearby.yashcreations.com.tasknearby.debug:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout app.tasknearby.yashcreations.com.tasknearby.debug:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout app.tasknearby.yashcreations.com.tasknearby.debug:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout app.tasknearby.yashcreations.com.tasknearby.debug:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle app.tasknearby.yashcreations.com.tasknearby.debug:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout app.tasknearby.yashcreations.com.tasknearby.debug:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.example.gts.alaram.debug:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.gts.alaram.debug:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.example.gts.alaram.debug:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.example.gts.alaram.debug:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.gts.alaram.debug:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.example.gts.alaram.debug:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.gts.alaram.debug:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -7667,7 +7648,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7676,11 +7657,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonIconDimen
+     * @attr name com.example.gts.alaram.debug:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7688,11 +7669,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonPanelSideLayout
+     * @attr name com.example.gts.alaram.debug:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7700,11 +7681,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listItemLayout
+     * @attr name com.example.gts.alaram.debug:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7712,11 +7693,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listLayout
+     * @attr name com.example.gts.alaram.debug:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7724,21 +7705,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:multiChoiceItemLayout
+     * @attr name com.example.gts.alaram.debug:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:showTitle
+     * @attr name com.example.gts.alaram.debug:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7746,7 +7727,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:singleChoiceItemLayout
+     * @attr name com.example.gts.alaram.debug:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -7948,9 +7929,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation app.tasknearby.yashcreations.com.tasknearby.debug:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded app.tasknearby.yashcreations.com.tasknearby.debug:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll app.tasknearby.yashcreations.com.tasknearby.debug:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.example.gts.alaram.debug:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.example.gts.alaram.debug:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.example.gts.alaram.debug:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -7999,7 +7980,7 @@ public final class R {
      */
     public static final int AppBarLayout_android_keyboardNavigationCluster=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#elevation}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8008,27 +7989,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:elevation
+     * @attr name com.example.gts.alaram.debug:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expanded
+     * @attr name com.example.gts.alaram.debug:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:liftOnScroll
+     * @attr name com.example.gts.alaram.debug:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -8038,10 +8019,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed app.tasknearby.yashcreations.com.tasknearby.debug:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible app.tasknearby.yashcreations.com.tasknearby.debug:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable app.tasknearby.yashcreations.com.tasknearby.debug:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted app.tasknearby.yashcreations.com.tasknearby.debug:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.example.gts.alaram.debug:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.example.gts.alaram.debug:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.example.gts.alaram.debug:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.example.gts.alaram.debug:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -8052,43 +8033,43 @@ public final class R {
       0x7f0401c3, 0x7f0401c4, 0x7f0401c5, 0x7f0401c6
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:state_collapsed
+     * @attr name com.example.gts.alaram.debug:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:state_collapsible
+     * @attr name com.example.gts.alaram.debug:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:state_liftable
+     * @attr name com.example.gts.alaram.debug:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:state_lifted
+     * @attr name com.example.gts.alaram.debug:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -8098,8 +8079,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags app.tasknearby.yashcreations.com.tasknearby.debug:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator app.tasknearby.yashcreations.com.tasknearby.debug:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.example.gts.alaram.debug:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.example.gts.alaram.debug:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -8108,7 +8089,7 @@ public final class R {
       0x7f040167, 0x7f040168
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -8125,11 +8106,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_scrollFlags
+     * @attr name com.example.gts.alaram.debug:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8137,7 +8118,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_scrollInterpolator
+     * @attr name com.example.gts.alaram.debug:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -8148,9 +8129,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat app.tasknearby.yashcreations.com.tasknearby.debug:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint app.tasknearby.yashcreations.com.tasknearby.debug:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode app.tasknearby.yashcreations.com.tasknearby.debug:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.gts.alaram.debug:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.example.gts.alaram.debug:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.example.gts.alaram.debug:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -8176,7 +8157,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8184,22 +8165,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:srcCompat
+     * @attr name com.example.gts.alaram.debug:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tint
+     * @attr name com.example.gts.alaram.debug:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8216,7 +8197,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tintMode
+     * @attr name com.example.gts.alaram.debug:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -8227,9 +8208,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark app.tasknearby.yashcreations.com.tasknearby.debug:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint app.tasknearby.yashcreations.com.tasknearby.debug:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode app.tasknearby.yashcreations.com.tasknearby.debug:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.gts.alaram.debug:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.gts.alaram.debug:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.gts.alaram.debug:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -8252,7 +8233,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8260,22 +8241,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tickMark
+     * @attr name com.example.gts.alaram.debug:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tickMarkTint
+     * @attr name com.example.gts.alaram.debug:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8292,7 +8273,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tickMarkTintMode
+     * @attr name com.example.gts.alaram.debug:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -8432,16 +8413,16 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes app.tasknearby.yashcreations.com.tasknearby.debug:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight app.tasknearby.yashcreations.com.tasknearby.debug:firstBaselineToTopHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily app.tasknearby.yashcreations.com.tasknearby.debug:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight app.tasknearby.yashcreations.com.tasknearby.debug:lastBaselineToBottomHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight app.tasknearby.yashcreations.com.tasknearby.debug:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps app.tasknearby.yashcreations.com.tasknearby.debug:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.example.gts.alaram.debug:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.example.gts.alaram.debug:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.example.gts.alaram.debug:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.example.gts.alaram.debug:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.example.gts.alaram.debug:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.example.gts.alaram.debug:firstBaselineToTopHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.example.gts.alaram.debug:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.example.gts.alaram.debug:lastBaselineToBottomHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.example.gts.alaram.debug:lineHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.gts.alaram.debug:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -8473,7 +8454,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8482,11 +8463,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeMaxTextSize
+     * @attr name com.example.gts.alaram.debug:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8495,11 +8476,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeMinTextSize
+     * @attr name com.example.gts.alaram.debug:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8507,11 +8488,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:autoSizePresetSizes
+     * @attr name com.example.gts.alaram.debug:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8520,11 +8501,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeStepGranularity
+     * @attr name com.example.gts.alaram.debug:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8537,11 +8518,11 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:autoSizeTextType
+     * @attr name com.example.gts.alaram.debug:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#firstBaselineToTopHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#firstBaselineToTopHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8550,21 +8531,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:firstBaselineToTopHeight
+     * @attr name com.example.gts.alaram.debug:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontFamily
+     * @attr name com.example.gts.alaram.debug:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#lastBaselineToBottomHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#lastBaselineToBottomHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8573,11 +8554,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:lastBaselineToBottomHeight
+     * @attr name com.example.gts.alaram.debug:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#lineHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#lineHeight}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8586,11 +8567,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:lineHeight
+     * @attr name com.example.gts.alaram.debug:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8600,7 +8581,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAllCaps
+     * @attr name com.example.gts.alaram.debug:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -8612,125 +8593,125 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider app.tasknearby.yashcreations.com.tasknearby.debug:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground app.tasknearby.yashcreations.com.tasknearby.debug:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme app.tasknearby.yashcreations.com.tasknearby.debug:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize app.tasknearby.yashcreations.com.tasknearby.debug:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme app.tasknearby.yashcreations.com.tasknearby.debug:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor app.tasknearby.yashcreations.com.tasknearby.debug:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground app.tasknearby.yashcreations.com.tasknearby.debug:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground app.tasknearby.yashcreations.com.tasknearby.debug:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable app.tasknearby.yashcreations.com.tasknearby.debug:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle app.tasknearby.yashcreations.com.tasknearby.debug:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle app.tasknearby.yashcreations.com.tasknearby.debug:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall app.tasknearby.yashcreations.com.tasknearby.debug:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle app.tasknearby.yashcreations.com.tasknearby.debug:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent app.tasknearby.yashcreations.com.tasknearby.debug:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating app.tasknearby.yashcreations.com.tasknearby.debug:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal app.tasknearby.yashcreations.com.tasknearby.debug:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated app.tasknearby.yashcreations.com.tasknearby.debug:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight app.tasknearby.yashcreations.com.tasknearby.debug:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal app.tasknearby.yashcreations.com.tasknearby.debug:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError app.tasknearby.yashcreations.com.tasknearby.debug:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal app.tasknearby.yashcreations.com.tasknearby.debug:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground app.tasknearby.yashcreations.com.tasknearby.debug:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius app.tasknearby.yashcreations.com.tasknearby.debug:dialogCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding app.tasknearby.yashcreations.com.tasknearby.debug:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme app.tasknearby.yashcreations.com.tasknearby.debug:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal app.tasknearby.yashcreations.com.tasknearby.debug:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical app.tasknearby.yashcreations.com.tasknearby.debug:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight app.tasknearby.yashcreations.com.tasknearby.debug:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground app.tasknearby.yashcreations.com.tasknearby.debug:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor app.tasknearby.yashcreations.com.tasknearby.debug:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator app.tasknearby.yashcreations.com.tasknearby.debug:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator app.tasknearby.yashcreations.com.tasknearby.debug:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog app.tasknearby.yashcreations.com.tasknearby.debug:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle app.tasknearby.yashcreations.com.tasknearby.debug:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground app.tasknearby.yashcreations.com.tasknearby.debug:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme app.tasknearby.yashcreations.com.tasknearby.debug:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth app.tasknearby.yashcreations.com.tasknearby.debug:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle app.tasknearby.yashcreations.com.tasknearby.debug:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle app.tasknearby.yashcreations.com.tasknearby.debug:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle app.tasknearby.yashcreations.com.tasknearby.debug:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator app.tasknearby.yashcreations.com.tasknearby.debug:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall app.tasknearby.yashcreations.com.tasknearby.debug:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle app.tasknearby.yashcreations.com.tasknearby.debug:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground app.tasknearby.yashcreations.com.tasknearby.debug:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless app.tasknearby.yashcreations.com.tasknearby.debug:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle app.tasknearby.yashcreations.com.tasknearby.debug:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle app.tasknearby.yashcreations.com.tasknearby.debug:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle app.tasknearby.yashcreations.com.tasknearby.debug:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader app.tasknearby.yashcreations.com.tasknearby.debug:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem app.tasknearby.yashcreations.com.tasknearby.debug:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl app.tasknearby.yashcreations.com.tasknearby.debug:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle app.tasknearby.yashcreations.com.tasknearby.debug:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor app.tasknearby.yashcreations.com.tasknearby.debug:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground app.tasknearby.yashcreations.com.tasknearby.debug:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass app.tasknearby.yashcreations.com.tasknearby.debug:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar app.tasknearby.yashcreations.com.tasknearby.debug:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay app.tasknearby.yashcreations.com.tasknearby.debug:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay app.tasknearby.yashcreations.com.tasknearby.debug:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor app.tasknearby.yashcreations.com.tasknearby.debug:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor app.tasknearby.yashcreations.com.tasknearby.debug:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle app.tasknearby.yashcreations.com.tasknearby.debug:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.gts.alaram.debug:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.gts.alaram.debug:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.gts.alaram.debug:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.gts.alaram.debug:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.gts.alaram.debug:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.gts.alaram.debug:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.gts.alaram.debug:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.gts.alaram.debug:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.gts.alaram.debug:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.gts.alaram.debug:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.gts.alaram.debug:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.gts.alaram.debug:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.gts.alaram.debug:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.gts.alaram.debug:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.gts.alaram.debug:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.gts.alaram.debug:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.gts.alaram.debug:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.gts.alaram.debug:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.gts.alaram.debug:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.gts.alaram.debug:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.gts.alaram.debug:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.gts.alaram.debug:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.gts.alaram.debug:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.gts.alaram.debug:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.gts.alaram.debug:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.gts.alaram.debug:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.gts.alaram.debug:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.gts.alaram.debug:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.gts.alaram.debug:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.gts.alaram.debug:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.gts.alaram.debug:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.gts.alaram.debug:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.gts.alaram.debug:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.gts.alaram.debug:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.gts.alaram.debug:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.gts.alaram.debug:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.gts.alaram.debug:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.gts.alaram.debug:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.gts.alaram.debug:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.gts.alaram.debug:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.gts.alaram.debug:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.gts.alaram.debug:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.gts.alaram.debug:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.gts.alaram.debug:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.gts.alaram.debug:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.gts.alaram.debug:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.gts.alaram.debug:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.gts.alaram.debug:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.gts.alaram.debug:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.gts.alaram.debug:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.gts.alaram.debug:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.gts.alaram.debug:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.example.gts.alaram.debug:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.gts.alaram.debug:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.gts.alaram.debug:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.gts.alaram.debug:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.gts.alaram.debug:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.example.gts.alaram.debug:dialogCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.gts.alaram.debug:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.gts.alaram.debug:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.gts.alaram.debug:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.gts.alaram.debug:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.gts.alaram.debug:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.gts.alaram.debug:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.gts.alaram.debug:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.gts.alaram.debug:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.gts.alaram.debug:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.gts.alaram.debug:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.gts.alaram.debug:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.gts.alaram.debug:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.gts.alaram.debug:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.gts.alaram.debug:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.gts.alaram.debug:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.gts.alaram.debug:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.gts.alaram.debug:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.gts.alaram.debug:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.gts.alaram.debug:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.gts.alaram.debug:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.gts.alaram.debug:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.gts.alaram.debug:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.gts.alaram.debug:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.gts.alaram.debug:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.gts.alaram.debug:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.gts.alaram.debug:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.gts.alaram.debug:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.gts.alaram.debug:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.gts.alaram.debug:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.gts.alaram.debug:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.gts.alaram.debug:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.gts.alaram.debug:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.gts.alaram.debug:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.gts.alaram.debug:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.gts.alaram.debug:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.gts.alaram.debug:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.gts.alaram.debug:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.gts.alaram.debug:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.example.gts.alaram.debug:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.gts.alaram.debug:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.gts.alaram.debug:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.gts.alaram.debug:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.gts.alaram.debug:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.gts.alaram.debug:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.gts.alaram.debug:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.gts.alaram.debug:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.gts.alaram.debug:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.gts.alaram.debug:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.example.gts.alaram.debug:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.example.gts.alaram.debug:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.example.gts.alaram.debug:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.gts.alaram.debug:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.gts.alaram.debug:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.gts.alaram.debug:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.gts.alaram.debug:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.gts.alaram.debug:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.gts.alaram.debug:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.gts.alaram.debug:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.gts.alaram.debug:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.gts.alaram.debug:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.gts.alaram.debug:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -8910,7 +8891,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8918,11 +8899,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarDivider
+     * @attr name com.example.gts.alaram.debug:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8930,11 +8911,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarItemBackground
+     * @attr name com.example.gts.alaram.debug:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8942,11 +8923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarPopupTheme
+     * @attr name com.example.gts.alaram.debug:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8963,11 +8944,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarSize
+     * @attr name com.example.gts.alaram.debug:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8975,11 +8956,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarSplitStyle
+     * @attr name com.example.gts.alaram.debug:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8987,11 +8968,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarStyle
+     * @attr name com.example.gts.alaram.debug:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8999,11 +8980,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTabBarStyle
+     * @attr name com.example.gts.alaram.debug:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9011,11 +8992,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTabStyle
+     * @attr name com.example.gts.alaram.debug:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9023,11 +9004,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTabTextStyle
+     * @attr name com.example.gts.alaram.debug:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9035,11 +9016,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarTheme
+     * @attr name com.example.gts.alaram.debug:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9047,11 +9028,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionBarWidgetTheme
+     * @attr name com.example.gts.alaram.debug:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9059,11 +9040,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionButtonStyle
+     * @attr name com.example.gts.alaram.debug:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9071,11 +9052,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionDropDownStyle
+     * @attr name com.example.gts.alaram.debug:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9083,11 +9064,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionMenuTextAppearance
+     * @attr name com.example.gts.alaram.debug:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9098,11 +9079,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionMenuTextColor
+     * @attr name com.example.gts.alaram.debug:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9110,11 +9091,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeBackground
+     * @attr name com.example.gts.alaram.debug:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9122,11 +9103,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCloseButtonStyle
+     * @attr name com.example.gts.alaram.debug:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9134,11 +9115,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCloseDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9146,11 +9127,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCopyDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9158,11 +9139,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeCutDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9170,11 +9151,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeFindDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9182,11 +9163,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModePasteDrawable
+     * @attr name com.example.gts.alaram.debug:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9194,11 +9175,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModePopupWindowStyle
+     * @attr name com.example.gts.alaram.debug:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9206,11 +9187,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeSelectAllDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9218,11 +9199,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeShareDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9230,11 +9211,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeSplitBackground
+     * @attr name com.example.gts.alaram.debug:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9242,11 +9223,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeStyle
+     * @attr name com.example.gts.alaram.debug:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9254,11 +9235,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionModeWebSearchDrawable
+     * @attr name com.example.gts.alaram.debug:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9266,11 +9247,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionOverflowButtonStyle
+     * @attr name com.example.gts.alaram.debug:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9278,11 +9259,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionOverflowMenuStyle
+     * @attr name com.example.gts.alaram.debug:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9290,11 +9271,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:activityChooserViewStyle
+     * @attr name com.example.gts.alaram.debug:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9302,21 +9283,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogButtonGroupStyle
+     * @attr name com.example.gts.alaram.debug:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogCenterButtons
+     * @attr name com.example.gts.alaram.debug:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9324,11 +9305,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogStyle
+     * @attr name com.example.gts.alaram.debug:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9336,11 +9317,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alertDialogTheme
+     * @attr name com.example.gts.alaram.debug:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9348,11 +9329,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:autoCompleteTextViewStyle
+     * @attr name com.example.gts.alaram.debug:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9360,11 +9341,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:borderlessButtonStyle
+     * @attr name com.example.gts.alaram.debug:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9372,11 +9353,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarButtonStyle
+     * @attr name com.example.gts.alaram.debug:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9384,11 +9365,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarNegativeButtonStyle
+     * @attr name com.example.gts.alaram.debug:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9396,11 +9377,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarNeutralButtonStyle
+     * @attr name com.example.gts.alaram.debug:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9408,11 +9389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarPositiveButtonStyle
+     * @attr name com.example.gts.alaram.debug:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9420,11 +9401,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonBarStyle
+     * @attr name com.example.gts.alaram.debug:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9432,11 +9413,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonStyle
+     * @attr name com.example.gts.alaram.debug:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9444,11 +9425,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonStyleSmall
+     * @attr name com.example.gts.alaram.debug:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9456,11 +9437,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:checkboxStyle
+     * @attr name com.example.gts.alaram.debug:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9468,77 +9449,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:checkedTextViewStyle
+     * @attr name com.example.gts.alaram.debug:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorAccent
+     * @attr name com.example.gts.alaram.debug:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorBackgroundFloating
+     * @attr name com.example.gts.alaram.debug:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorButtonNormal
+     * @attr name com.example.gts.alaram.debug:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorControlActivated
+     * @attr name com.example.gts.alaram.debug:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorControlHighlight
+     * @attr name com.example.gts.alaram.debug:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorControlNormal
+     * @attr name com.example.gts.alaram.debug:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9549,44 +9530,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorError
+     * @attr name com.example.gts.alaram.debug:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimary
+     * @attr name com.example.gts.alaram.debug:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimaryDark
+     * @attr name com.example.gts.alaram.debug:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorSwitchThumbNormal
+     * @attr name com.example.gts.alaram.debug:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9594,11 +9575,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:controlBackground
+     * @attr name com.example.gts.alaram.debug:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dialogCornerRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dialogCornerRadius}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9607,11 +9588,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dialogCornerRadius
+     * @attr name com.example.gts.alaram.debug:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9620,11 +9601,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dialogPreferredPadding
+     * @attr name com.example.gts.alaram.debug:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9632,11 +9613,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dialogTheme
+     * @attr name com.example.gts.alaram.debug:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9644,11 +9625,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dividerHorizontal
+     * @attr name com.example.gts.alaram.debug:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9656,11 +9637,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dividerVertical
+     * @attr name com.example.gts.alaram.debug:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9668,11 +9649,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dropDownListViewStyle
+     * @attr name com.example.gts.alaram.debug:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9681,11 +9662,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dropdownListPreferredItemHeight
+     * @attr name com.example.gts.alaram.debug:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9693,11 +9674,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:editTextBackground
+     * @attr name com.example.gts.alaram.debug:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9708,11 +9689,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:editTextColor
+     * @attr name com.example.gts.alaram.debug:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9720,11 +9701,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:editTextStyle
+     * @attr name com.example.gts.alaram.debug:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9732,11 +9713,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:homeAsUpIndicator
+     * @attr name com.example.gts.alaram.debug:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9744,11 +9725,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:imageButtonStyle
+     * @attr name com.example.gts.alaram.debug:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9756,11 +9737,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listChoiceBackgroundIndicator
+     * @attr name com.example.gts.alaram.debug:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9768,11 +9749,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listDividerAlertDialog
+     * @attr name com.example.gts.alaram.debug:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9780,11 +9761,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listMenuViewStyle
+     * @attr name com.example.gts.alaram.debug:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9792,11 +9773,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listPopupWindowStyle
+     * @attr name com.example.gts.alaram.debug:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9805,11 +9786,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemHeight
+     * @attr name com.example.gts.alaram.debug:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9818,11 +9799,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemHeightLarge
+     * @attr name com.example.gts.alaram.debug:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9831,11 +9812,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemHeightSmall
+     * @attr name com.example.gts.alaram.debug:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9844,11 +9825,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemPaddingLeft
+     * @attr name com.example.gts.alaram.debug:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9857,11 +9838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:listPreferredItemPaddingRight
+     * @attr name com.example.gts.alaram.debug:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9869,11 +9850,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:panelBackground
+     * @attr name com.example.gts.alaram.debug:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9881,11 +9862,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:panelMenuListTheme
+     * @attr name com.example.gts.alaram.debug:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9894,11 +9875,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:panelMenuListWidth
+     * @attr name com.example.gts.alaram.debug:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9906,11 +9887,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:popupMenuStyle
+     * @attr name com.example.gts.alaram.debug:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9918,11 +9899,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:popupWindowStyle
+     * @attr name com.example.gts.alaram.debug:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9930,11 +9911,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:radioButtonStyle
+     * @attr name com.example.gts.alaram.debug:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9942,11 +9923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:ratingBarStyle
+     * @attr name com.example.gts.alaram.debug:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9954,11 +9935,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:ratingBarStyleIndicator
+     * @attr name com.example.gts.alaram.debug:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9966,11 +9947,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:ratingBarStyleSmall
+     * @attr name com.example.gts.alaram.debug:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9978,11 +9959,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:searchViewStyle
+     * @attr name com.example.gts.alaram.debug:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9990,11 +9971,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:seekBarStyle
+     * @attr name com.example.gts.alaram.debug:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10002,11 +9983,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:selectableItemBackground
+     * @attr name com.example.gts.alaram.debug:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10014,11 +9995,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:selectableItemBackgroundBorderless
+     * @attr name com.example.gts.alaram.debug:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10026,11 +10007,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:spinnerDropDownItemStyle
+     * @attr name com.example.gts.alaram.debug:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10038,11 +10019,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:spinnerStyle
+     * @attr name com.example.gts.alaram.debug:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10050,11 +10031,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:switchStyle
+     * @attr name com.example.gts.alaram.debug:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10062,11 +10043,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceLargePopupMenu
+     * @attr name com.example.gts.alaram.debug:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10074,11 +10055,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceListItem
+     * @attr name com.example.gts.alaram.debug:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10086,11 +10067,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceListItemSecondary
+     * @attr name com.example.gts.alaram.debug:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10098,11 +10079,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceListItemSmall
+     * @attr name com.example.gts.alaram.debug:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10110,11 +10091,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearancePopupMenuHeader
+     * @attr name com.example.gts.alaram.debug:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10122,11 +10103,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSearchResultSubtitle
+     * @attr name com.example.gts.alaram.debug:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10134,11 +10115,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSearchResultTitle
+     * @attr name com.example.gts.alaram.debug:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10146,11 +10127,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSmallPopupMenu
+     * @attr name com.example.gts.alaram.debug:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10161,11 +10142,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textColorAlertDialogListItem
+     * @attr name com.example.gts.alaram.debug:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10176,11 +10157,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textColorSearchUrl
+     * @attr name com.example.gts.alaram.debug:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10188,11 +10169,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:toolbarNavigationButtonStyle
+     * @attr name com.example.gts.alaram.debug:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10200,11 +10181,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:toolbarStyle
+     * @attr name com.example.gts.alaram.debug:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10215,11 +10196,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tooltipForegroundColor
+     * @attr name com.example.gts.alaram.debug:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10227,51 +10208,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tooltipFrameBackground
+     * @attr name com.example.gts.alaram.debug:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:viewInflaterClass
+     * @attr name com.example.gts.alaram.debug:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowActionBar
+     * @attr name com.example.gts.alaram.debug:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowActionBarOverlay
+     * @attr name com.example.gts.alaram.debug:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowActionModeOverlay
+     * @attr name com.example.gts.alaram.debug:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10284,11 +10265,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedHeightMajor
+     * @attr name com.example.gts.alaram.debug:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10301,11 +10282,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedHeightMinor
+     * @attr name com.example.gts.alaram.debug:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10318,11 +10299,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedWidthMajor
+     * @attr name com.example.gts.alaram.debug:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10335,11 +10316,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowFixedWidthMinor
+     * @attr name com.example.gts.alaram.debug:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10352,11 +10333,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowMinWidthMajor
+     * @attr name com.example.gts.alaram.debug:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10369,17 +10350,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowMinWidthMinor
+     * @attr name com.example.gts.alaram.debug:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:windowNoTitle
+     * @attr name com.example.gts.alaram.debug:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -10389,12 +10370,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode app.tasknearby.yashcreations.com.tasknearby.debug:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin app.tasknearby.yashcreations.com.tasknearby.debug:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius app.tasknearby.yashcreations.com.tasknearby.debug:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset app.tasknearby.yashcreations.com.tasknearby.debug:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll app.tasknearby.yashcreations.com.tasknearby.debug:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.example.gts.alaram.debug:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.example.gts.alaram.debug:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.example.gts.alaram.debug:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.example.gts.alaram.debug:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.example.gts.alaram.debug:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.example.gts.alaram.debug:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -10408,18 +10389,18 @@ public final class R {
       0x7f0400db, 0x7f0400fa
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint
+     * @attr name com.example.gts.alaram.debug:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10432,11 +10413,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fabAlignmentMode
+     * @attr name com.example.gts.alaram.debug:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10445,11 +10426,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fabCradleMargin
+     * @attr name com.example.gts.alaram.debug:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10458,11 +10439,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fabCradleRoundedCornerRadius
+     * @attr name com.example.gts.alaram.debug:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10471,17 +10452,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fabCradleVerticalOffset
+     * @attr name com.example.gts.alaram.debug:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hideOnScroll
+     * @attr name com.example.gts.alaram.debug:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -10491,16 +10472,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation app.tasknearby.yashcreations.com.tasknearby.debug:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground app.tasknearby.yashcreations.com.tasknearby.debug:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled app.tasknearby.yashcreations.com.tasknearby.debug:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize app.tasknearby.yashcreations.com.tasknearby.debug:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint app.tasknearby.yashcreations.com.tasknearby.debug:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive app.tasknearby.yashcreations.com.tasknearby.debug:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive app.tasknearby.yashcreations.com.tasknearby.debug:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor app.tasknearby.yashcreations.com.tasknearby.debug:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode app.tasknearby.yashcreations.com.tasknearby.debug:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu app.tasknearby.yashcreations.com.tasknearby.debug:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.example.gts.alaram.debug:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.example.gts.alaram.debug:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.example.gts.alaram.debug:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.example.gts.alaram.debug:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.example.gts.alaram.debug:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.example.gts.alaram.debug:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.example.gts.alaram.debug:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.example.gts.alaram.debug:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.example.gts.alaram.debug:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.example.gts.alaram.debug:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -10519,7 +10500,7 @@ public final class R {
       0x7f04011e, 0x7f040181
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#elevation}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10528,11 +10509,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:elevation
+     * @attr name com.example.gts.alaram.debug:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10540,21 +10521,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemBackground
+     * @attr name com.example.gts.alaram.debug:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemHorizontalTranslationEnabled
+     * @attr name com.example.gts.alaram.debug:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10563,22 +10544,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemIconSize
+     * @attr name com.example.gts.alaram.debug:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemIconTint
+     * @attr name com.example.gts.alaram.debug:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10586,11 +10567,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemTextAppearanceActive
+     * @attr name com.example.gts.alaram.debug:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10598,22 +10579,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemTextAppearanceInactive
+     * @attr name com.example.gts.alaram.debug:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemTextColor
+     * @attr name com.example.gts.alaram.debug:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10628,11 +10609,11 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:labelVisibilityMode
+     * @attr name com.example.gts.alaram.debug:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10640,7 +10621,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:menu
+     * @attr name com.example.gts.alaram.debug:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -10650,10 +10631,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents app.tasknearby.yashcreations.com.tasknearby.debug:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable app.tasknearby.yashcreations.com.tasknearby.debug:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight app.tasknearby.yashcreations.com.tasknearby.debug:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed app.tasknearby.yashcreations.com.tasknearby.debug:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.example.gts.alaram.debug:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.example.gts.alaram.debug:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.example.gts.alaram.debug:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.example.gts.alaram.debug:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -10664,27 +10645,27 @@ public final class R {
       0x7f04003c, 0x7f04003d, 0x7f04003f, 0x7f040040
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:behavior_fitToContents
+     * @attr name com.example.gts.alaram.debug:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:behavior_hideable
+     * @attr name com.example.gts.alaram.debug:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10701,17 +10682,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:behavior_peekHeight
+     * @attr name com.example.gts.alaram.debug:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:behavior_skipCollapsed
+     * @attr name com.example.gts.alaram.debug:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -10721,7 +10702,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking app.tasknearby.yashcreations.com.tasknearby.debug:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.gts.alaram.debug:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -10729,13 +10710,13 @@ public final class R {
       0x7f040027
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:allowStacking
+     * @attr name com.example.gts.alaram.debug:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -10747,17 +10728,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor app.tasknearby.yashcreations.com.tasknearby.debug:cardBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius app.tasknearby.yashcreations.com.tasknearby.debug:cardCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation app.tasknearby.yashcreations.com.tasknearby.debug:cardElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation app.tasknearby.yashcreations.com.tasknearby.debug:cardMaxElevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap app.tasknearby.yashcreations.com.tasknearby.debug:cardPreventCornerOverlap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding app.tasknearby.yashcreations.com.tasknearby.debug:cardUseCompatPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding app.tasknearby.yashcreations.com.tasknearby.debug:contentPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.example.gts.alaram.debug:cardBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.example.gts.alaram.debug:cardCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.example.gts.alaram.debug:cardElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.example.gts.alaram.debug:cardMaxElevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.example.gts.alaram.debug:cardPreventCornerOverlap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.example.gts.alaram.debug:cardUseCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.example.gts.alaram.debug:contentPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.example.gts.alaram.debug:contentPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.example.gts.alaram.debug:contentPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.example.gts.alaram.debug:contentPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.example.gts.alaram.debug:contentPaddingTop}</code></td><td></td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -10806,18 +10787,18 @@ public final class R {
      */
     public static final int CardView_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cardBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cardBackgroundColor}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cardBackgroundColor
+     * @attr name com.example.gts.alaram.debug:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cardCornerRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cardCornerRadius}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10826,11 +10807,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cardCornerRadius
+     * @attr name com.example.gts.alaram.debug:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cardElevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cardElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10839,11 +10820,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cardElevation
+     * @attr name com.example.gts.alaram.debug:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cardMaxElevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cardMaxElevation}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10852,31 +10833,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cardMaxElevation
+     * @attr name com.example.gts.alaram.debug:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cardPreventCornerOverlap}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cardPreventCornerOverlap}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cardPreventCornerOverlap
+     * @attr name com.example.gts.alaram.debug:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cardUseCompatPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cardUseCompatPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cardUseCompatPadding
+     * @attr name com.example.gts.alaram.debug:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentPadding}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10885,11 +10866,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentPadding
+     * @attr name com.example.gts.alaram.debug:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentPaddingBottom}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10898,11 +10879,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingBottom
+     * @attr name com.example.gts.alaram.debug:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentPaddingLeft}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10911,11 +10892,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingLeft
+     * @attr name com.example.gts.alaram.debug:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentPaddingRight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentPaddingRight}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10924,11 +10905,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingRight
+     * @attr name com.example.gts.alaram.debug:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentPaddingTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentPaddingTop}
      * attribute's value can be found in the {@link #CardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10937,7 +10918,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentPaddingTop
+     * @attr name com.example.gts.alaram.debug:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -10952,35 +10933,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon app.tasknearby.yashcreations.com.tasknearby.debug:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled app.tasknearby.yashcreations.com.tasknearby.debug:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible app.tasknearby.yashcreations.com.tasknearby.debug:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor app.tasknearby.yashcreations.com.tasknearby.debug:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius app.tasknearby.yashcreations.com.tasknearby.debug:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding app.tasknearby.yashcreations.com.tasknearby.debug:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon app.tasknearby.yashcreations.com.tasknearby.debug:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled app.tasknearby.yashcreations.com.tasknearby.debug:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize app.tasknearby.yashcreations.com.tasknearby.debug:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint app.tasknearby.yashcreations.com.tasknearby.debug:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible app.tasknearby.yashcreations.com.tasknearby.debug:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight app.tasknearby.yashcreations.com.tasknearby.debug:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding app.tasknearby.yashcreations.com.tasknearby.debug:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor app.tasknearby.yashcreations.com.tasknearby.debug:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth app.tasknearby.yashcreations.com.tasknearby.debug:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon app.tasknearby.yashcreations.com.tasknearby.debug:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled app.tasknearby.yashcreations.com.tasknearby.debug:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding app.tasknearby.yashcreations.com.tasknearby.debug:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize app.tasknearby.yashcreations.com.tasknearby.debug:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding app.tasknearby.yashcreations.com.tasknearby.debug:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint app.tasknearby.yashcreations.com.tasknearby.debug:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible app.tasknearby.yashcreations.com.tasknearby.debug:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec app.tasknearby.yashcreations.com.tasknearby.debug:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding app.tasknearby.yashcreations.com.tasknearby.debug:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding app.tasknearby.yashcreations.com.tasknearby.debug:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor app.tasknearby.yashcreations.com.tasknearby.debug:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec app.tasknearby.yashcreations.com.tasknearby.debug:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding app.tasknearby.yashcreations.com.tasknearby.debug:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding app.tasknearby.yashcreations.com.tasknearby.debug:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.example.gts.alaram.debug:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.example.gts.alaram.debug:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.example.gts.alaram.debug:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.example.gts.alaram.debug:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.example.gts.alaram.debug:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.example.gts.alaram.debug:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.example.gts.alaram.debug:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.example.gts.alaram.debug:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.example.gts.alaram.debug:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.example.gts.alaram.debug:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.example.gts.alaram.debug:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.example.gts.alaram.debug:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.example.gts.alaram.debug:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.example.gts.alaram.debug:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.example.gts.alaram.debug:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.example.gts.alaram.debug:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.example.gts.alaram.debug:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.example.gts.alaram.debug:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.example.gts.alaram.debug:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.example.gts.alaram.debug:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.example.gts.alaram.debug:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.example.gts.alaram.debug:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.example.gts.alaram.debug:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.example.gts.alaram.debug:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.example.gts.alaram.debug:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.example.gts.alaram.debug:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.example.gts.alaram.debug:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.example.gts.alaram.debug:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.example.gts.alaram.debug:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -11094,7 +11075,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11102,42 +11083,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:checkedIcon
+     * @attr name com.example.gts.alaram.debug:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:checkedIconEnabled
+     * @attr name com.example.gts.alaram.debug:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:checkedIconVisible
+     * @attr name com.example.gts.alaram.debug:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipBackgroundColor
+     * @attr name com.example.gts.alaram.debug:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11146,11 +11127,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipCornerRadius
+     * @attr name com.example.gts.alaram.debug:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11159,11 +11140,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipEndPadding
+     * @attr name com.example.gts.alaram.debug:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11171,21 +11152,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipIcon
+     * @attr name com.example.gts.alaram.debug:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipIconEnabled
+     * @attr name com.example.gts.alaram.debug:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11194,32 +11175,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipIconSize
+     * @attr name com.example.gts.alaram.debug:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipIconTint
+     * @attr name com.example.gts.alaram.debug:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipIconVisible
+     * @attr name com.example.gts.alaram.debug:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11228,11 +11209,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipMinHeight
+     * @attr name com.example.gts.alaram.debug:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11241,22 +11222,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipStartPadding
+     * @attr name com.example.gts.alaram.debug:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipStrokeColor
+     * @attr name com.example.gts.alaram.debug:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11265,11 +11246,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipStrokeWidth
+     * @attr name com.example.gts.alaram.debug:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11277,21 +11258,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIcon
+     * @attr name com.example.gts.alaram.debug:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIconEnabled
+     * @attr name com.example.gts.alaram.debug:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11300,11 +11281,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIconEndPadding
+     * @attr name com.example.gts.alaram.debug:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11313,11 +11294,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIconSize
+     * @attr name com.example.gts.alaram.debug:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11326,32 +11307,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIconStartPadding
+     * @attr name com.example.gts.alaram.debug:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIconTint
+     * @attr name com.example.gts.alaram.debug:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIconVisible
+     * @attr name com.example.gts.alaram.debug:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11359,11 +11340,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hideMotionSpec
+     * @attr name com.example.gts.alaram.debug:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11372,11 +11353,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconEndPadding
+     * @attr name com.example.gts.alaram.debug:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11385,22 +11366,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconStartPadding
+     * @attr name com.example.gts.alaram.debug:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:rippleColor
+     * @attr name com.example.gts.alaram.debug:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11408,11 +11389,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:showMotionSpec
+     * @attr name com.example.gts.alaram.debug:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11421,11 +11402,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textEndPadding
+     * @attr name com.example.gts.alaram.debug:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11434,7 +11415,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textStartPadding
+     * @attr name com.example.gts.alaram.debug:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -11444,12 +11425,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip app.tasknearby.yashcreations.com.tasknearby.debug:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing app.tasknearby.yashcreations.com.tasknearby.debug:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal app.tasknearby.yashcreations.com.tasknearby.debug:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical app.tasknearby.yashcreations.com.tasknearby.debug:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine app.tasknearby.yashcreations.com.tasknearby.debug:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection app.tasknearby.yashcreations.com.tasknearby.debug:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.example.gts.alaram.debug:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.example.gts.alaram.debug:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.example.gts.alaram.debug:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.example.gts.alaram.debug:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.example.gts.alaram.debug:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.example.gts.alaram.debug:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -11463,7 +11444,7 @@ public final class R {
       0x7f0401b7, 0x7f0401b8
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11471,11 +11452,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:checkedChip
+     * @attr name com.example.gts.alaram.debug:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11484,11 +11465,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipSpacing
+     * @attr name com.example.gts.alaram.debug:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11497,11 +11478,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipSpacingHorizontal
+     * @attr name com.example.gts.alaram.debug:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11510,27 +11491,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipSpacingVertical
+     * @attr name com.example.gts.alaram.debug:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:singleLine
+     * @attr name com.example.gts.alaram.debug:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:singleSelection
+     * @attr name com.example.gts.alaram.debug:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -11540,22 +11521,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity app.tasknearby.yashcreations.com.tasknearby.debug:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim app.tasknearby.yashcreations.com.tasknearby.debug:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration app.tasknearby.yashcreations.com.tasknearby.debug:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger app.tasknearby.yashcreations.com.tasknearby.debug:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim app.tasknearby.yashcreations.com.tasknearby.debug:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title app.tasknearby.yashcreations.com.tasknearby.debug:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled app.tasknearby.yashcreations.com.tasknearby.debug:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId app.tasknearby.yashcreations.com.tasknearby.debug:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.example.gts.alaram.debug:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.example.gts.alaram.debug:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.example.gts.alaram.debug:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.example.gts.alaram.debug:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.example.gts.alaram.debug:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.example.gts.alaram.debug:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.example.gts.alaram.debug:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.example.gts.alaram.debug:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.example.gts.alaram.debug:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.example.gts.alaram.debug:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.example.gts.alaram.debug:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.example.gts.alaram.debug:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.example.gts.alaram.debug:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.example.gts.alaram.debug:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.example.gts.alaram.debug:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.example.gts.alaram.debug:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -11581,7 +11562,7 @@ public final class R {
       0x7f0401c8, 0x7f040215, 0x7f040216, 0x7f040220
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11602,11 +11583,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:collapsedTitleGravity
+     * @attr name com.example.gts.alaram.debug:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11614,22 +11595,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:collapsedTitleTextAppearance
+     * @attr name com.example.gts.alaram.debug:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentScrim
+     * @attr name com.example.gts.alaram.debug:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11650,11 +11631,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleGravity
+     * @attr name com.example.gts.alaram.debug:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11663,11 +11644,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMargin
+     * @attr name com.example.gts.alaram.debug:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11676,11 +11657,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginBottom
+     * @attr name com.example.gts.alaram.debug:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11689,11 +11670,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginEnd
+     * @attr name com.example.gts.alaram.debug:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11702,11 +11683,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginStart
+     * @attr name com.example.gts.alaram.debug:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11715,11 +11696,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleMarginTop
+     * @attr name com.example.gts.alaram.debug:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11727,20 +11708,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:expandedTitleTextAppearance
+     * @attr name com.example.gts.alaram.debug:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:scrimAnimationDuration
+     * @attr name com.example.gts.alaram.debug:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11749,42 +11730,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:scrimVisibleHeightTrigger
+     * @attr name com.example.gts.alaram.debug:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:statusBarScrim
+     * @attr name com.example.gts.alaram.debug:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:title
+     * @attr name com.example.gts.alaram.debug:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleEnabled
+     * @attr name com.example.gts.alaram.debug:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11792,7 +11773,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:toolbarId
+     * @attr name com.example.gts.alaram.debug:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -11802,8 +11783,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode app.tasknearby.yashcreations.com.tasknearby.debug:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier app.tasknearby.yashcreations.com.tasknearby.debug:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.example.gts.alaram.debug:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.example.gts.alaram.debug:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -11812,7 +11793,7 @@ public final class R {
       0x7f040129, 0x7f04012a
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11826,16 +11807,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_collapseMode
+     * @attr name com.example.gts.alaram.debug:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_collapseParallaxMultiplier
+     * @attr name com.example.gts.alaram.debug:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -11847,7 +11828,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha app.tasknearby.yashcreations.com.tasknearby.debug:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.example.gts.alaram.debug:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -11877,12 +11858,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alpha
+     * @attr name com.example.gts.alaram.debug:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -11893,8 +11874,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint app.tasknearby.yashcreations.com.tasknearby.debug:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode app.tasknearby.yashcreations.com.tasknearby.debug:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.example.gts.alaram.debug:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.gts.alaram.debug:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -11916,18 +11897,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonTint
+     * @attr name com.example.gts.alaram.debug:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11944,7 +11925,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonTintMode
+     * @attr name com.example.gts.alaram.debug:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -11959,61 +11940,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets app.tasknearby.yashcreations.com.tasknearby.debug:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection app.tasknearby.yashcreations.com.tasknearby.debug:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl app.tasknearby.yashcreations.com.tasknearby.debug:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet app.tasknearby.yashcreations.com.tasknearby.debug:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids app.tasknearby.yashcreations.com.tasknearby.debug:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel app.tasknearby.yashcreations.com.tasknearby.debug:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.example.gts.alaram.debug:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.example.gts.alaram.debug:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.example.gts.alaram.debug:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.example.gts.alaram.debug:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.example.gts.alaram.debug:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.example.gts.alaram.debug:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.example.gts.alaram.debug:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.example.gts.alaram.debug:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.example.gts.alaram.debug:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.example.gts.alaram.debug:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.example.gts.alaram.debug:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.example.gts.alaram.debug:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.example.gts.alaram.debug:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.example.gts.alaram.debug:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.example.gts.alaram.debug:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.example.gts.alaram.debug:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.example.gts.alaram.debug:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.example.gts.alaram.debug:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.example.gts.alaram.debug:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.example.gts.alaram.debug:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.example.gts.alaram.debug:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.example.gts.alaram.debug:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.example.gts.alaram.debug:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.example.gts.alaram.debug:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.example.gts.alaram.debug:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.example.gts.alaram.debug:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.example.gts.alaram.debug:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.example.gts.alaram.debug:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.example.gts.alaram.debug:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.example.gts.alaram.debug:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.example.gts.alaram.debug:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.example.gts.alaram.debug:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.example.gts.alaram.debug:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.example.gts.alaram.debug:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.example.gts.alaram.debug:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.example.gts.alaram.debug:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.example.gts.alaram.debug:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.example.gts.alaram.debug:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.example.gts.alaram.debug:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.example.gts.alaram.debug:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.example.gts.alaram.debug:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.example.gts.alaram.debug:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.example.gts.alaram.debug:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.example.gts.alaram.debug:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.example.gts.alaram.debug:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.example.gts.alaram.debug:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.example.gts.alaram.debug:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.example.gts.alaram.debug:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.example.gts.alaram.debug:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.example.gts.alaram.debug:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.example.gts.alaram.debug:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.example.gts.alaram.debug:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.example.gts.alaram.debug:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.example.gts.alaram.debug:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.example.gts.alaram.debug:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -12163,17 +12144,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:barrierAllowsGoneWidgets
+     * @attr name com.example.gts.alaram.debug:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12190,21 +12171,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:barrierDirection
+     * @attr name com.example.gts.alaram.debug:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chainUseRtl
+     * @attr name com.example.gts.alaram.debug:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12212,50 +12193,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:constraintSet
+     * @attr name com.example.gts.alaram.debug:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:constraint_referenced_ids
+     * @attr name com.example.gts.alaram.debug:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedHeight
+     * @attr name com.example.gts.alaram.debug:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedWidth
+     * @attr name com.example.gts.alaram.debug:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12271,20 +12252,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12300,11 +12281,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toBottomOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12320,11 +12301,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toTopOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12332,20 +12313,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircle
+     * @attr name com.example.gts.alaram.debug:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleAngle
+     * @attr name com.example.gts.alaram.debug:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12354,21 +12335,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleRadius
+     * @attr name com.example.gts.alaram.debug:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintDimensionRatio
+     * @attr name com.example.gts.alaram.debug:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12384,11 +12365,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toEndOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12404,11 +12385,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toStartOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12417,11 +12398,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_begin
+     * @attr name com.example.gts.alaram.debug:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12430,20 +12411,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_end
+     * @attr name com.example.gts.alaram.debug:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_percent
+     * @attr name com.example.gts.alaram.debug:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12457,11 +12438,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_default
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12478,11 +12459,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_max
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12499,29 +12480,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_min
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_percent
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_bias
+     * @attr name com.example.gts.alaram.debug:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12535,29 +12516,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.gts.alaram.debug:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_weight
+     * @attr name com.example.gts.alaram.debug:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12573,11 +12554,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toLeftOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12593,20 +12574,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toRightOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12622,11 +12603,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toLeftOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12642,11 +12623,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toRightOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12662,11 +12643,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toEndOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12682,20 +12663,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toStartOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12711,11 +12692,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toBottomOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12731,20 +12712,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toTopOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_bias
+     * @attr name com.example.gts.alaram.debug:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12758,20 +12739,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_chainStyle
+     * @attr name com.example.gts.alaram.debug:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_weight
+     * @attr name com.example.gts.alaram.debug:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12785,11 +12766,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_default
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12806,11 +12787,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_max
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12827,20 +12808,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_min
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_percent
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12849,11 +12830,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteX
+     * @attr name com.example.gts.alaram.debug:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12862,11 +12843,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteY
+     * @attr name com.example.gts.alaram.debug:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12875,11 +12856,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginBottom
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12888,11 +12869,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginEnd
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12901,11 +12882,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginLeft
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12914,11 +12895,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginRight
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12927,11 +12908,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginStart
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12940,11 +12921,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginTop
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -12962,7 +12943,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_optimizationLevel
+     * @attr name com.example.gts.alaram.debug:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -12972,8 +12953,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content app.tasknearby.yashcreations.com.tasknearby.debug:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility app.tasknearby.yashcreations.com.tasknearby.debug:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.example.gts.alaram.debug:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.example.gts.alaram.debug:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -12982,7 +12963,7 @@ public final class R {
       0x7f0400a3, 0x7f0400ca
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12990,11 +12971,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:content
+     * @attr name com.example.gts.alaram.debug:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13007,7 +12988,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:emptyVisibility
+     * @attr name com.example.gts.alaram.debug:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -13044,59 +13025,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets app.tasknearby.yashcreations.com.tasknearby.debug:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection app.tasknearby.yashcreations.com.tasknearby.debug:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl app.tasknearby.yashcreations.com.tasknearby.debug:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids app.tasknearby.yashcreations.com.tasknearby.debug:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.example.gts.alaram.debug:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.example.gts.alaram.debug:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.example.gts.alaram.debug:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.example.gts.alaram.debug:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.example.gts.alaram.debug:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.example.gts.alaram.debug:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.example.gts.alaram.debug:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.example.gts.alaram.debug:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.example.gts.alaram.debug:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.example.gts.alaram.debug:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.example.gts.alaram.debug:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.example.gts.alaram.debug:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.example.gts.alaram.debug:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.example.gts.alaram.debug:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.example.gts.alaram.debug:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.example.gts.alaram.debug:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.example.gts.alaram.debug:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.example.gts.alaram.debug:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.example.gts.alaram.debug:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.example.gts.alaram.debug:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.example.gts.alaram.debug:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.example.gts.alaram.debug:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.example.gts.alaram.debug:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.example.gts.alaram.debug:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.example.gts.alaram.debug:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.example.gts.alaram.debug:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.example.gts.alaram.debug:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.example.gts.alaram.debug:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.example.gts.alaram.debug:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.example.gts.alaram.debug:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.example.gts.alaram.debug:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.example.gts.alaram.debug:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.example.gts.alaram.debug:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.example.gts.alaram.debug:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.example.gts.alaram.debug:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.example.gts.alaram.debug:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.example.gts.alaram.debug:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.example.gts.alaram.debug:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.example.gts.alaram.debug:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.example.gts.alaram.debug:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.example.gts.alaram.debug:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.example.gts.alaram.debug:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.example.gts.alaram.debug:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.example.gts.alaram.debug:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.example.gts.alaram.debug:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.example.gts.alaram.debug:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.example.gts.alaram.debug:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.example.gts.alaram.debug:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.example.gts.alaram.debug:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.example.gts.alaram.debug:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.example.gts.alaram.debug:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.example.gts.alaram.debug:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.example.gts.alaram.debug:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -13557,17 +13538,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:barrierAllowsGoneWidgets
+     * @attr name com.example.gts.alaram.debug:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13584,60 +13565,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:barrierDirection
+     * @attr name com.example.gts.alaram.debug:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chainUseRtl
+     * @attr name com.example.gts.alaram.debug:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:constraint_referenced_ids
+     * @attr name com.example.gts.alaram.debug:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedHeight
+     * @attr name com.example.gts.alaram.debug:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constrainedWidth
+     * @attr name com.example.gts.alaram.debug:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13653,20 +13634,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBaseline_toBaselineOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13682,11 +13663,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toBottomOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13702,11 +13683,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintBottom_toTopOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13714,20 +13695,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircle
+     * @attr name com.example.gts.alaram.debug:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleAngle
+     * @attr name com.example.gts.alaram.debug:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13736,21 +13717,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintCircleRadius
+     * @attr name com.example.gts.alaram.debug:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintDimensionRatio
+     * @attr name com.example.gts.alaram.debug:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13766,11 +13747,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toEndOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13786,11 +13767,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintEnd_toStartOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13799,11 +13780,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_begin
+     * @attr name com.example.gts.alaram.debug:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13812,20 +13793,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_end
+     * @attr name com.example.gts.alaram.debug:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintGuide_percent
+     * @attr name com.example.gts.alaram.debug:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13839,11 +13820,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_default
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13860,11 +13841,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_max
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13881,29 +13862,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_min
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHeight_percent
+     * @attr name com.example.gts.alaram.debug:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_bias
+     * @attr name com.example.gts.alaram.debug:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13917,29 +13898,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_chainStyle
+     * @attr name com.example.gts.alaram.debug:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintHorizontal_weight
+     * @attr name com.example.gts.alaram.debug:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13955,11 +13936,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toLeftOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13975,20 +13956,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintLeft_toRightOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14004,11 +13985,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toLeftOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14024,11 +14005,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintRight_toRightOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14044,11 +14025,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toEndOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14064,20 +14045,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintStart_toStartOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_creator
+     * @attr name com.example.gts.alaram.debug:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14093,11 +14074,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toBottomOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14113,20 +14094,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintTop_toTopOf
+     * @attr name com.example.gts.alaram.debug:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_bias
+     * @attr name com.example.gts.alaram.debug:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14140,20 +14121,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_chainStyle
+     * @attr name com.example.gts.alaram.debug:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintVertical_weight
+     * @attr name com.example.gts.alaram.debug:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14167,11 +14148,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_default
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14188,11 +14169,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_max
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14209,20 +14190,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_min
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_constraintWidth_percent
+     * @attr name com.example.gts.alaram.debug:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14231,11 +14212,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteX
+     * @attr name com.example.gts.alaram.debug:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14244,11 +14225,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_editor_absoluteY
+     * @attr name com.example.gts.alaram.debug:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14257,11 +14238,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginBottom
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14270,11 +14251,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginEnd
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14283,11 +14264,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginLeft
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14296,11 +14277,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginRight
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14309,11 +14290,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginStart
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14322,7 +14303,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_goneMarginTop
+     * @attr name com.example.gts.alaram.debug:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -14332,8 +14313,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines app.tasknearby.yashcreations.com.tasknearby.debug:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground app.tasknearby.yashcreations.com.tasknearby.debug:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.example.gts.alaram.debug:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.example.gts.alaram.debug:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -14342,7 +14323,7 @@ public final class R {
       0x7f04011d, 0x7f0401c7
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14350,11 +14331,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:keylines
+     * @attr name com.example.gts.alaram.debug:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14365,7 +14346,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:statusBarBackground
+     * @attr name com.example.gts.alaram.debug:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -14376,12 +14357,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor app.tasknearby.yashcreations.com.tasknearby.debug:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity app.tasknearby.yashcreations.com.tasknearby.debug:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior app.tasknearby.yashcreations.com.tasknearby.debug:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges app.tasknearby.yashcreations.com.tasknearby.debug:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge app.tasknearby.yashcreations.com.tasknearby.debug:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline app.tasknearby.yashcreations.com.tasknearby.debug:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.example.gts.alaram.debug:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.example.gts.alaram.debug:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.example.gts.alaram.debug:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.example.gts.alaram.debug:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.example.gts.alaram.debug:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.example.gts.alaram.debug:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -14425,7 +14406,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14433,11 +14414,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_anchor
+     * @attr name com.example.gts.alaram.debug:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -14462,21 +14443,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_anchorGravity
+     * @attr name com.example.gts.alaram.debug:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_behavior
+     * @attr name com.example.gts.alaram.debug:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -14495,11 +14476,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_dodgeInsetEdges
+     * @attr name com.example.gts.alaram.debug:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14517,16 +14498,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_insetEdge
+     * @attr name com.example.gts.alaram.debug:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_keyline
+     * @attr name com.example.gts.alaram.debug:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -14536,8 +14517,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.example.gts.alaram.debug:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.example.gts.alaram.debug:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -14546,7 +14527,7 @@ public final class R {
       0x7f040045, 0x7f040046
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14554,11 +14535,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetDialogTheme
+     * @attr name com.example.gts.alaram.debug:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14566,7 +14547,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetStyle
+     * @attr name com.example.gts.alaram.debug:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -14576,14 +14557,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength app.tasknearby.yashcreations.com.tasknearby.debug:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength app.tasknearby.yashcreations.com.tasknearby.debug:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength app.tasknearby.yashcreations.com.tasknearby.debug:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color app.tasknearby.yashcreations.com.tasknearby.debug:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize app.tasknearby.yashcreations.com.tasknearby.debug:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars app.tasknearby.yashcreations.com.tasknearby.debug:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars app.tasknearby.yashcreations.com.tasknearby.debug:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness app.tasknearby.yashcreations.com.tasknearby.debug:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.gts.alaram.debug:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.gts.alaram.debug:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.gts.alaram.debug:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.example.gts.alaram.debug:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.gts.alaram.debug:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.gts.alaram.debug:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.gts.alaram.debug:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.gts.alaram.debug:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -14599,7 +14580,7 @@ public final class R {
       0x7f0400c2, 0x7f0400f1, 0x7f0401bc, 0x7f04020c
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14608,11 +14589,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:arrowHeadLength
+     * @attr name com.example.gts.alaram.debug:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14621,11 +14602,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:arrowShaftLength
+     * @attr name com.example.gts.alaram.debug:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14634,22 +14615,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:barLength
+     * @attr name com.example.gts.alaram.debug:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:color
+     * @attr name com.example.gts.alaram.debug:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14658,11 +14639,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:drawableSize
+     * @attr name com.example.gts.alaram.debug:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14671,21 +14652,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:gapBetweenBars
+     * @attr name com.example.gts.alaram.debug:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:spinBars
+     * @attr name com.example.gts.alaram.debug:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14694,7 +14675,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:thickness
+     * @attr name com.example.gts.alaram.debug:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -14704,19 +14685,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth app.tasknearby.yashcreations.com.tasknearby.debug:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation app.tasknearby.yashcreations.com.tasknearby.debug:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize app.tasknearby.yashcreations.com.tasknearby.debug:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize app.tasknearby.yashcreations.com.tasknearby.debug:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec app.tasknearby.yashcreations.com.tasknearby.debug:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ app.tasknearby.yashcreations.com.tasknearby.debug:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize app.tasknearby.yashcreations.com.tasknearby.debug:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ app.tasknearby.yashcreations.com.tasknearby.debug:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor app.tasknearby.yashcreations.com.tasknearby.debug:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec app.tasknearby.yashcreations.com.tasknearby.debug:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding app.tasknearby.yashcreations.com.tasknearby.debug:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.example.gts.alaram.debug:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.example.gts.alaram.debug:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.example.gts.alaram.debug:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.example.gts.alaram.debug:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.example.gts.alaram.debug:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.example.gts.alaram.debug:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.example.gts.alaram.debug:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.example.gts.alaram.debug:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.example.gts.alaram.debug:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.example.gts.alaram.debug:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.example.gts.alaram.debug:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.example.gts.alaram.debug:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.example.gts.alaram.debug:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -14739,18 +14720,18 @@ public final class R {
       0x7f040231
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint
+     * @attr name com.example.gts.alaram.debug:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14767,11 +14748,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTintMode
+     * @attr name com.example.gts.alaram.debug:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14780,11 +14761,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:borderWidth
+     * @attr name com.example.gts.alaram.debug:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#elevation}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14793,11 +14774,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:elevation
+     * @attr name com.example.gts.alaram.debug:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14806,11 +14787,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fabCustomSize
+     * @attr name com.example.gts.alaram.debug:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14824,11 +14805,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fabSize
+     * @attr name com.example.gts.alaram.debug:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14836,11 +14817,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hideMotionSpec
+     * @attr name com.example.gts.alaram.debug:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14849,11 +14830,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hoveredFocusedTranslationZ
+     * @attr name com.example.gts.alaram.debug:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14862,11 +14843,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:maxImageSize
+     * @attr name com.example.gts.alaram.debug:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14875,22 +14856,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:pressedTranslationZ
+     * @attr name com.example.gts.alaram.debug:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:rippleColor
+     * @attr name com.example.gts.alaram.debug:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14898,17 +14879,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:showMotionSpec
+     * @attr name com.example.gts.alaram.debug:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:useCompatPadding
+     * @attr name com.example.gts.alaram.debug:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -14918,7 +14899,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide app.tasknearby.yashcreations.com.tasknearby.debug:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.example.gts.alaram.debug:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -14926,13 +14907,13 @@ public final class R {
       0x7f04003b
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:behavior_autoHide
+     * @attr name com.example.gts.alaram.debug:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -14942,8 +14923,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing app.tasknearby.yashcreations.com.tasknearby.debug:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing app.tasknearby.yashcreations.com.tasknearby.debug:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.example.gts.alaram.debug:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.example.gts.alaram.debug:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -14952,7 +14933,7 @@ public final class R {
       0x7f040118, 0x7f04016b
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14961,11 +14942,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemSpacing
+     * @attr name com.example.gts.alaram.debug:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14974,7 +14955,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:lineSpacing
+     * @attr name com.example.gts.alaram.debug:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -14984,12 +14965,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.example.gts.alaram.debug:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.example.gts.alaram.debug:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.example.gts.alaram.debug:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.example.gts.alaram.debug:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.example.gts.alaram.debug:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.example.gts.alaram.debug:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -15003,17 +14984,17 @@ public final class R {
       0x7f0400eb, 0x7f0400ec
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderAuthority
+     * @attr name com.example.gts.alaram.debug:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15021,11 +15002,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderCerts
+     * @attr name com.example.gts.alaram.debug:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15038,11 +15019,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderFetchStrategy
+     * @attr name com.example.gts.alaram.debug:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -15055,27 +15036,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderFetchTimeout
+     * @attr name com.example.gts.alaram.debug:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderPackage
+     * @attr name com.example.gts.alaram.debug:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontProviderQuery
+     * @attr name com.example.gts.alaram.debug:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -15090,11 +15071,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font app.tasknearby.yashcreations.com.tasknearby.debug:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle app.tasknearby.yashcreations.com.tasknearby.debug:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings app.tasknearby.yashcreations.com.tasknearby.debug:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight app.tasknearby.yashcreations.com.tasknearby.debug:fontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex app.tasknearby.yashcreations.com.tasknearby.debug:ttcIndex}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.example.gts.alaram.debug:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.example.gts.alaram.debug:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.example.gts.alaram.debug:fontVariationSettings}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.example.gts.alaram.debug:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.example.gts.alaram.debug:ttcIndex}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -15170,7 +15151,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontVariationSettings=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15178,11 +15159,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:font
+     * @attr name com.example.gts.alaram.debug:font
      */
     public static final int FontFamilyFont_font=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15195,35 +15176,35 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontStyle
+     * @attr name com.example.gts.alaram.debug:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontVariationSettings}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontVariationSettings}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontVariationSettings
+     * @attr name com.example.gts.alaram.debug:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontWeight
+     * @attr name com.example.gts.alaram.debug:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#ttcIndex}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#ttcIndex}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:ttcIndex
+     * @attr name com.example.gts.alaram.debug:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -15235,7 +15216,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding app.tasknearby.yashcreations.com.tasknearby.debug:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.example.gts.alaram.debug:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -15287,13 +15268,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:foregroundInsidePadding
+     * @attr name com.example.gts.alaram.debug:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -15527,13 +15508,13 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #GridLayout_alignmentMode app.tasknearby.yashcreations.com.tasknearby.debug:alignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_columnCount app.tasknearby.yashcreations.com.tasknearby.debug:columnCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_columnOrderPreserved app.tasknearby.yashcreations.com.tasknearby.debug:columnOrderPreserved}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_orientation app.tasknearby.yashcreations.com.tasknearby.debug:orientation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_rowCount app.tasknearby.yashcreations.com.tasknearby.debug:rowCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_rowOrderPreserved app.tasknearby.yashcreations.com.tasknearby.debug:rowOrderPreserved}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_useDefaultMargins app.tasknearby.yashcreations.com.tasknearby.debug:useDefaultMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_alignmentMode com.example.gts.alaram.debug:alignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_columnCount com.example.gts.alaram.debug:columnCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_columnOrderPreserved com.example.gts.alaram.debug:columnOrderPreserved}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_orientation com.example.gts.alaram.debug:orientation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_rowCount com.example.gts.alaram.debug:rowCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_rowOrderPreserved com.example.gts.alaram.debug:rowOrderPreserved}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_useDefaultMargins com.example.gts.alaram.debug:useDefaultMargins}</code></td><td></td></tr>
      * </table>
      * @see #GridLayout_alignmentMode
      * @see #GridLayout_columnCount
@@ -15548,7 +15529,7 @@ public final class R {
       0x7f0401a5, 0x7f0401a6, 0x7f040232
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alignmentMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alignmentMode}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15561,30 +15542,30 @@ public final class R {
      * <tr><td>alignMargins</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alignmentMode
+     * @attr name com.example.gts.alaram.debug:alignmentMode
      */
     public static final int GridLayout_alignmentMode=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#columnCount}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#columnCount}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:columnCount
+     * @attr name com.example.gts.alaram.debug:columnCount
      */
     public static final int GridLayout_columnCount=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#columnOrderPreserved}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#columnOrderPreserved}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:columnOrderPreserved
+     * @attr name com.example.gts.alaram.debug:columnOrderPreserved
      */
     public static final int GridLayout_columnOrderPreserved=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#orientation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#orientation}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15597,36 +15578,36 @@ public final class R {
      * <tr><td>vertical</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:orientation
+     * @attr name com.example.gts.alaram.debug:orientation
      */
     public static final int GridLayout_orientation=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#rowCount}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#rowCount}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:rowCount
+     * @attr name com.example.gts.alaram.debug:rowCount
      */
     public static final int GridLayout_rowCount=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#rowOrderPreserved}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#rowOrderPreserved}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:rowOrderPreserved
+     * @attr name com.example.gts.alaram.debug:rowOrderPreserved
      */
     public static final int GridLayout_rowOrderPreserved=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#useDefaultMargins}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#useDefaultMargins}
      * attribute's value can be found in the {@link #GridLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:useDefaultMargins
+     * @attr name com.example.gts.alaram.debug:useDefaultMargins
      */
     public static final int GridLayout_useDefaultMargins=6;
     /**
@@ -15643,13 +15624,13 @@ public final class R {
      * <tr><td><code>{@link #GridLayout_Layout_android_layout_marginTop android:layout_marginTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #GridLayout_Layout_android_layout_marginRight android:layout_marginRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #GridLayout_Layout_android_layout_marginBottom android:layout_marginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_column app.tasknearby.yashcreations.com.tasknearby.debug:layout_column}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan app.tasknearby.yashcreations.com.tasknearby.debug:layout_columnSpan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_columnWeight app.tasknearby.yashcreations.com.tasknearby.debug:layout_columnWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_gravity app.tasknearby.yashcreations.com.tasknearby.debug:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_row app.tasknearby.yashcreations.com.tasknearby.debug:layout_row}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan app.tasknearby.yashcreations.com.tasknearby.debug:layout_rowSpan}</code></td><td></td></tr>
-     * <tr><td><code>{@link #GridLayout_Layout_layout_rowWeight app.tasknearby.yashcreations.com.tasknearby.debug:layout_rowWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_column com.example.gts.alaram.debug:layout_column}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_columnSpan com.example.gts.alaram.debug:layout_columnSpan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_columnWeight com.example.gts.alaram.debug:layout_columnWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_gravity com.example.gts.alaram.debug:layout_gravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_row com.example.gts.alaram.debug:layout_row}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_rowSpan com.example.gts.alaram.debug:layout_rowSpan}</code></td><td></td></tr>
+     * <tr><td><code>{@link #GridLayout_Layout_layout_rowWeight com.example.gts.alaram.debug:layout_rowWeight}</code></td><td></td></tr>
      * </table>
      * @see #GridLayout_Layout_android_layout_width
      * @see #GridLayout_Layout_android_layout_height
@@ -15784,34 +15765,34 @@ public final class R {
      */
     public static final int GridLayout_Layout_android_layout_marginBottom=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_column}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_column}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_column
+     * @attr name com.example.gts.alaram.debug:layout_column
      */
     public static final int GridLayout_Layout_layout_column=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_columnSpan}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_columnSpan}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_columnSpan
+     * @attr name com.example.gts.alaram.debug:layout_columnSpan
      */
     public static final int GridLayout_Layout_layout_columnSpan=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_columnWeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_columnWeight}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_columnWeight
+     * @attr name com.example.gts.alaram.debug:layout_columnWeight
      */
     public static final int GridLayout_Layout_layout_columnWeight=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_gravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_gravity}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -15836,34 +15817,34 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_gravity
+     * @attr name com.example.gts.alaram.debug:layout_gravity
      */
     public static final int GridLayout_Layout_layout_gravity=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_row}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_row}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_row
+     * @attr name com.example.gts.alaram.debug:layout_row
      */
     public static final int GridLayout_Layout_layout_row=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_rowSpan}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_rowSpan}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_rowSpan
+     * @attr name com.example.gts.alaram.debug:layout_rowSpan
      */
     public static final int GridLayout_Layout_layout_rowSpan=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout_rowWeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout_rowWeight}
      * attribute's value can be found in the {@link #GridLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout_rowWeight
+     * @attr name com.example.gts.alaram.debug:layout_rowWeight
      */
     public static final int GridLayout_Layout_layout_rowWeight=13;
     /**
@@ -15909,10 +15890,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider app.tasknearby.yashcreations.com.tasknearby.debug:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding app.tasknearby.yashcreations.com.tasknearby.debug:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild app.tasknearby.yashcreations.com.tasknearby.debug:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers app.tasknearby.yashcreations.com.tasknearby.debug:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.example.gts.alaram.debug:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.gts.alaram.debug:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.gts.alaram.debug:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.gts.alaram.debug:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -16004,7 +15985,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16012,11 +15993,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:divider
+     * @attr name com.example.gts.alaram.debug:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16025,21 +16006,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:dividerPadding
+     * @attr name com.example.gts.alaram.debug:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:measureWithLargestChild
+     * @attr name com.example.gts.alaram.debug:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16054,7 +16035,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:showDividers
+     * @attr name com.example.gts.alaram.debug:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -16210,9 +16191,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop app.tasknearby.yashcreations.com.tasknearby.debug:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio app.tasknearby.yashcreations.com.tasknearby.debug:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust app.tasknearby.yashcreations.com.tasknearby.debug:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.example.gts.alaram.debug:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.example.gts.alaram.debug:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.example.gts.alaram.debug:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -16222,26 +16203,26 @@ public final class R {
       0x7f040084, 0x7f04010a, 0x7f04010b
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:circleCrop
+     * @attr name com.example.gts.alaram.debug:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:imageAspectRatio
+     * @attr name com.example.gts.alaram.debug:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16255,7 +16236,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:imageAspectRatioAdjust
+     * @attr name com.example.gts.alaram.debug:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -16265,29 +16246,29 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MapAttrs_ambientEnabled app.tasknearby.yashcreations.com.tasknearby.debug:ambientEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraBearing app.tasknearby.yashcreations.com.tasknearby.debug:cameraBearing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference app.tasknearby.yashcreations.com.tasknearby.debug:cameraMaxZoomPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference app.tasknearby.yashcreations.com.tasknearby.debug:cameraMinZoomPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTargetLat app.tasknearby.yashcreations.com.tasknearby.debug:cameraTargetLat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTargetLng app.tasknearby.yashcreations.com.tasknearby.debug:cameraTargetLng}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTilt app.tasknearby.yashcreations.com.tasknearby.debug:cameraTilt}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraZoom app.tasknearby.yashcreations.com.tasknearby.debug:cameraZoom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_liteMode app.tasknearby.yashcreations.com.tasknearby.debug:liteMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_mapType app.tasknearby.yashcreations.com.tasknearby.debug:mapType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiCompass app.tasknearby.yashcreations.com.tasknearby.debug:uiCompass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiMapToolbar app.tasknearby.yashcreations.com.tasknearby.debug:uiMapToolbar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiRotateGestures app.tasknearby.yashcreations.com.tasknearby.debug:uiRotateGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiScrollGestures app.tasknearby.yashcreations.com.tasknearby.debug:uiScrollGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiTiltGestures app.tasknearby.yashcreations.com.tasknearby.debug:uiTiltGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiZoomControls app.tasknearby.yashcreations.com.tasknearby.debug:uiZoomControls}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiZoomGestures app.tasknearby.yashcreations.com.tasknearby.debug:uiZoomGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_useViewLifecycle app.tasknearby.yashcreations.com.tasknearby.debug:useViewLifecycle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_zOrderOnTop app.tasknearby.yashcreations.com.tasknearby.debug:zOrderOnTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_ambientEnabled com.example.gts.alaram.debug:ambientEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraBearing com.example.gts.alaram.debug:cameraBearing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.example.gts.alaram.debug:cameraMaxZoomPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.example.gts.alaram.debug:cameraMinZoomPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTargetLat com.example.gts.alaram.debug:cameraTargetLat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTargetLng com.example.gts.alaram.debug:cameraTargetLng}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTilt com.example.gts.alaram.debug:cameraTilt}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraZoom com.example.gts.alaram.debug:cameraZoom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.example.gts.alaram.debug:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.example.gts.alaram.debug:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.example.gts.alaram.debug:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.example.gts.alaram.debug:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_liteMode com.example.gts.alaram.debug:liteMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_mapType com.example.gts.alaram.debug:mapType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiCompass com.example.gts.alaram.debug:uiCompass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiMapToolbar com.example.gts.alaram.debug:uiMapToolbar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiRotateGestures com.example.gts.alaram.debug:uiRotateGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiScrollGestures com.example.gts.alaram.debug:uiScrollGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiTiltGestures com.example.gts.alaram.debug:uiTiltGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiZoomControls com.example.gts.alaram.debug:uiZoomControls}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiZoomGestures com.example.gts.alaram.debug:uiZoomGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_useViewLifecycle com.example.gts.alaram.debug:useViewLifecycle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_zOrderOnTop com.example.gts.alaram.debug:zOrderOnTop}</code></td><td></td></tr>
      * </table>
      * @see #MapAttrs_ambientEnabled
      * @see #MapAttrs_cameraBearing
@@ -16322,126 +16303,126 @@ public final class R {
       0x7f040230, 0x7f040233, 0x7f040249
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#ambientEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#ambientEnabled}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:ambientEnabled
+     * @attr name com.example.gts.alaram.debug:ambientEnabled
      */
     public static final int MapAttrs_ambientEnabled=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraBearing}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraBearing}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraBearing
+     * @attr name com.example.gts.alaram.debug:cameraBearing
      */
     public static final int MapAttrs_cameraBearing=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraMaxZoomPreference}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraMaxZoomPreference}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraMaxZoomPreference
+     * @attr name com.example.gts.alaram.debug:cameraMaxZoomPreference
      */
     public static final int MapAttrs_cameraMaxZoomPreference=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraMinZoomPreference}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraMinZoomPreference}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraMinZoomPreference
+     * @attr name com.example.gts.alaram.debug:cameraMinZoomPreference
      */
     public static final int MapAttrs_cameraMinZoomPreference=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraTargetLat}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraTargetLat}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraTargetLat
+     * @attr name com.example.gts.alaram.debug:cameraTargetLat
      */
     public static final int MapAttrs_cameraTargetLat=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraTargetLng}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraTargetLng}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraTargetLng
+     * @attr name com.example.gts.alaram.debug:cameraTargetLng
      */
     public static final int MapAttrs_cameraTargetLng=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraTilt}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraTilt}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraTilt
+     * @attr name com.example.gts.alaram.debug:cameraTilt
      */
     public static final int MapAttrs_cameraTilt=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cameraZoom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cameraZoom}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cameraZoom
+     * @attr name com.example.gts.alaram.debug:cameraZoom
      */
     public static final int MapAttrs_cameraZoom=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#latLngBoundsNorthEastLatitude}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#latLngBoundsNorthEastLatitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsNorthEastLatitude
+     * @attr name com.example.gts.alaram.debug:latLngBoundsNorthEastLatitude
      */
     public static final int MapAttrs_latLngBoundsNorthEastLatitude=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#latLngBoundsNorthEastLongitude}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#latLngBoundsNorthEastLongitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsNorthEastLongitude
+     * @attr name com.example.gts.alaram.debug:latLngBoundsNorthEastLongitude
      */
     public static final int MapAttrs_latLngBoundsNorthEastLongitude=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#latLngBoundsSouthWestLatitude}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#latLngBoundsSouthWestLatitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsSouthWestLatitude
+     * @attr name com.example.gts.alaram.debug:latLngBoundsSouthWestLatitude
      */
     public static final int MapAttrs_latLngBoundsSouthWestLatitude=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#latLngBoundsSouthWestLongitude}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#latLngBoundsSouthWestLongitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:latLngBoundsSouthWestLongitude
+     * @attr name com.example.gts.alaram.debug:latLngBoundsSouthWestLongitude
      */
     public static final int MapAttrs_latLngBoundsSouthWestLongitude=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#liteMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#liteMode}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:liteMode
+     * @attr name com.example.gts.alaram.debug:liteMode
      */
     public static final int MapAttrs_liteMode=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#mapType}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#mapType}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16457,97 +16438,97 @@ public final class R {
      * <tr><td>terrain</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:mapType
+     * @attr name com.example.gts.alaram.debug:mapType
      */
     public static final int MapAttrs_mapType=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiCompass}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiCompass}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiCompass
+     * @attr name com.example.gts.alaram.debug:uiCompass
      */
     public static final int MapAttrs_uiCompass=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiMapToolbar}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiMapToolbar}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiMapToolbar
+     * @attr name com.example.gts.alaram.debug:uiMapToolbar
      */
     public static final int MapAttrs_uiMapToolbar=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiRotateGestures}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiRotateGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiRotateGestures
+     * @attr name com.example.gts.alaram.debug:uiRotateGestures
      */
     public static final int MapAttrs_uiRotateGestures=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiScrollGestures}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiScrollGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiScrollGestures
+     * @attr name com.example.gts.alaram.debug:uiScrollGestures
      */
     public static final int MapAttrs_uiScrollGestures=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiTiltGestures}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiTiltGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiTiltGestures
+     * @attr name com.example.gts.alaram.debug:uiTiltGestures
      */
     public static final int MapAttrs_uiTiltGestures=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiZoomControls}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiZoomControls}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiZoomControls
+     * @attr name com.example.gts.alaram.debug:uiZoomControls
      */
     public static final int MapAttrs_uiZoomControls=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#uiZoomGestures}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#uiZoomGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:uiZoomGestures
+     * @attr name com.example.gts.alaram.debug:uiZoomGestures
      */
     public static final int MapAttrs_uiZoomGestures=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#useViewLifecycle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#useViewLifecycle}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:useViewLifecycle
+     * @attr name com.example.gts.alaram.debug:useViewLifecycle
      */
     public static final int MapAttrs_useViewLifecycle=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#zOrderOnTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#zOrderOnTop}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:zOrderOnTop
+     * @attr name com.example.gts.alaram.debug:zOrderOnTop
      */
     public static final int MapAttrs_zOrderOnTop=22;
     /**
@@ -16561,18 +16542,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius app.tasknearby.yashcreations.com.tasknearby.debug:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon app.tasknearby.yashcreations.com.tasknearby.debug:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity app.tasknearby.yashcreations.com.tasknearby.debug:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding app.tasknearby.yashcreations.com.tasknearby.debug:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize app.tasknearby.yashcreations.com.tasknearby.debug:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint app.tasknearby.yashcreations.com.tasknearby.debug:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode app.tasknearby.yashcreations.com.tasknearby.debug:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor app.tasknearby.yashcreations.com.tasknearby.debug:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor app.tasknearby.yashcreations.com.tasknearby.debug:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth app.tasknearby.yashcreations.com.tasknearby.debug:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.example.gts.alaram.debug:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.example.gts.alaram.debug:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.example.gts.alaram.debug:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.example.gts.alaram.debug:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.example.gts.alaram.debug:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.example.gts.alaram.debug:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.example.gts.alaram.debug:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.example.gts.alaram.debug:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.example.gts.alaram.debug:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.example.gts.alaram.debug:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.example.gts.alaram.debug:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.example.gts.alaram.debug:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -16666,18 +16647,18 @@ public final class R {
      */
     public static final int MaterialButton_android_insetBottom=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint
+     * @attr name com.example.gts.alaram.debug:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16694,11 +16675,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTintMode
+     * @attr name com.example.gts.alaram.debug:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16707,11 +16688,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:cornerRadius
+     * @attr name com.example.gts.alaram.debug:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16719,11 +16700,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:icon
+     * @attr name com.example.gts.alaram.debug:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16736,11 +16717,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconGravity
+     * @attr name com.example.gts.alaram.debug:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16749,11 +16730,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconPadding
+     * @attr name com.example.gts.alaram.debug:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16762,22 +16743,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconSize
+     * @attr name com.example.gts.alaram.debug:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconTint}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconTint
+     * @attr name com.example.gts.alaram.debug:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16794,33 +16775,33 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconTintMode
+     * @attr name com.example.gts.alaram.debug:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:rippleColor
+     * @attr name com.example.gts.alaram.debug:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:strokeColor
+     * @attr name com.example.gts.alaram.debug:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16829,7 +16810,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:strokeWidth
+     * @attr name com.example.gts.alaram.debug:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -16839,8 +16820,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor app.tasknearby.yashcreations.com.tasknearby.debug:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth app.tasknearby.yashcreations.com.tasknearby.debug:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.example.gts.alaram.debug:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.example.gts.alaram.debug:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -16849,18 +16830,18 @@ public final class R {
       0x7f0401c9, 0x7f0401ca
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:strokeColor
+     * @attr name com.example.gts.alaram.debug:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16869,7 +16850,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:strokeWidth
+     * @attr name com.example.gts.alaram.debug:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -16879,38 +16860,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle app.tasknearby.yashcreations.com.tasknearby.debug:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle app.tasknearby.yashcreations.com.tasknearby.debug:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle app.tasknearby.yashcreations.com.tasknearby.debug:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent app.tasknearby.yashcreations.com.tasknearby.debug:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating app.tasknearby.yashcreations.com.tasknearby.debug:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary app.tasknearby.yashcreations.com.tasknearby.debug:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle app.tasknearby.yashcreations.com.tasknearby.debug:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle app.tasknearby.yashcreations.com.tasknearby.debug:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground app.tasknearby.yashcreations.com.tasknearby.debug:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle app.tasknearby.yashcreations.com.tasknearby.debug:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle app.tasknearby.yashcreations.com.tasknearby.debug:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.example.gts.alaram.debug:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.example.gts.alaram.debug:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.example.gts.alaram.debug:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.example.gts.alaram.debug:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.example.gts.alaram.debug:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.example.gts.alaram.debug:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.example.gts.alaram.debug:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.example.gts.alaram.debug:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.example.gts.alaram.debug:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.example.gts.alaram.debug:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.example.gts.alaram.debug:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.example.gts.alaram.debug:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.example.gts.alaram.debug:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.example.gts.alaram.debug:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.example.gts.alaram.debug:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.example.gts.alaram.debug:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.example.gts.alaram.debug:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.example.gts.alaram.debug:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.example.gts.alaram.debug:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.example.gts.alaram.debug:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.example.gts.alaram.debug:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.example.gts.alaram.debug:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.example.gts.alaram.debug:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.example.gts.alaram.debug:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.example.gts.alaram.debug:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.example.gts.alaram.debug:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.example.gts.alaram.debug:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.example.gts.alaram.debug:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.example.gts.alaram.debug:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.example.gts.alaram.debug:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.example.gts.alaram.debug:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.example.gts.alaram.debug:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -16956,7 +16937,7 @@ public final class R {
       0x7f0401ff, 0x7f040204, 0x7f040205, 0x7f040209
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16964,11 +16945,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetDialogTheme
+     * @attr name com.example.gts.alaram.debug:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16976,11 +16957,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:bottomSheetStyle
+     * @attr name com.example.gts.alaram.debug:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16988,11 +16969,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipGroupStyle
+     * @attr name com.example.gts.alaram.debug:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17000,11 +16981,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipStandaloneStyle
+     * @attr name com.example.gts.alaram.debug:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17012,66 +16993,66 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:chipStyle
+     * @attr name com.example.gts.alaram.debug:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorAccent}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorAccent
+     * @attr name com.example.gts.alaram.debug:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorBackgroundFloating
+     * @attr name com.example.gts.alaram.debug:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimary
+     * @attr name com.example.gts.alaram.debug:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorPrimaryDark
+     * @attr name com.example.gts.alaram.debug:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorSecondary
+     * @attr name com.example.gts.alaram.debug:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17079,11 +17060,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:editTextStyle
+     * @attr name com.example.gts.alaram.debug:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17109,11 +17090,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:floatingActionButtonStyle
+     * @attr name com.example.gts.alaram.debug:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17121,11 +17102,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:materialButtonStyle
+     * @attr name com.example.gts.alaram.debug:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17133,11 +17114,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:materialCardViewStyle
+     * @attr name com.example.gts.alaram.debug:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17145,11 +17126,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:navigationViewStyle
+     * @attr name com.example.gts.alaram.debug:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17160,11 +17141,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:scrimBackground
+     * @attr name com.example.gts.alaram.debug:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17172,11 +17153,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:snackbarButtonStyle
+     * @attr name com.example.gts.alaram.debug:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17184,11 +17165,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabStyle
+     * @attr name com.example.gts.alaram.debug:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17196,11 +17177,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceBody1
+     * @attr name com.example.gts.alaram.debug:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17208,11 +17189,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceBody2
+     * @attr name com.example.gts.alaram.debug:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17220,11 +17201,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceButton
+     * @attr name com.example.gts.alaram.debug:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17232,11 +17213,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceCaption
+     * @attr name com.example.gts.alaram.debug:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17244,11 +17225,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline1
+     * @attr name com.example.gts.alaram.debug:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17256,11 +17237,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline2
+     * @attr name com.example.gts.alaram.debug:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17268,11 +17249,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline3
+     * @attr name com.example.gts.alaram.debug:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17280,11 +17261,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline4
+     * @attr name com.example.gts.alaram.debug:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17292,11 +17273,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline5
+     * @attr name com.example.gts.alaram.debug:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17304,11 +17285,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceHeadline6
+     * @attr name com.example.gts.alaram.debug:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17316,11 +17297,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceOverline
+     * @attr name com.example.gts.alaram.debug:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17328,11 +17309,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSubtitle1
+     * @attr name com.example.gts.alaram.debug:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17340,11 +17321,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAppearanceSubtitle2
+     * @attr name com.example.gts.alaram.debug:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17352,7 +17333,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textInputStyle
+     * @attr name com.example.gts.alaram.debug:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -17478,16 +17459,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout app.tasknearby.yashcreations.com.tasknearby.debug:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass app.tasknearby.yashcreations.com.tasknearby.debug:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass app.tasknearby.yashcreations.com.tasknearby.debug:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers app.tasknearby.yashcreations.com.tasknearby.debug:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription app.tasknearby.yashcreations.com.tasknearby.debug:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint app.tasknearby.yashcreations.com.tasknearby.debug:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode app.tasknearby.yashcreations.com.tasknearby.debug:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers app.tasknearby.yashcreations.com.tasknearby.debug:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction app.tasknearby.yashcreations.com.tasknearby.debug:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText app.tasknearby.yashcreations.com.tasknearby.debug:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.example.gts.alaram.debug:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.example.gts.alaram.debug:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.example.gts.alaram.debug:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.example.gts.alaram.debug:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.example.gts.alaram.debug:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.example.gts.alaram.debug:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.example.gts.alaram.debug:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.example.gts.alaram.debug:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.example.gts.alaram.debug:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.example.gts.alaram.debug:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -17664,7 +17645,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17672,31 +17653,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionLayout
+     * @attr name com.example.gts.alaram.debug:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionProviderClass
+     * @attr name com.example.gts.alaram.debug:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:actionViewClass
+     * @attr name com.example.gts.alaram.debug:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17713,32 +17694,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:alphabeticModifiers
+     * @attr name com.example.gts.alaram.debug:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentDescription
+     * @attr name com.example.gts.alaram.debug:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconTint
+     * @attr name com.example.gts.alaram.debug:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17755,11 +17736,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconTintMode
+     * @attr name com.example.gts.alaram.debug:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17776,11 +17757,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:numericModifiers
+     * @attr name com.example.gts.alaram.debug:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17796,17 +17777,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:showAsAction
+     * @attr name com.example.gts.alaram.debug:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tooltipText
+     * @attr name com.example.gts.alaram.debug:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -17823,8 +17804,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing app.tasknearby.yashcreations.com.tasknearby.debug:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow app.tasknearby.yashcreations.com.tasknearby.debug:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.gts.alaram.debug:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.example.gts.alaram.debug:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -17929,17 +17910,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:preserveIconSpacing
+     * @attr name com.example.gts.alaram.debug:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17947,7 +17928,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subMenuArrow
+     * @attr name com.example.gts.alaram.debug:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -17960,15 +17941,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation app.tasknearby.yashcreations.com.tasknearby.debug:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout app.tasknearby.yashcreations.com.tasknearby.debug:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground app.tasknearby.yashcreations.com.tasknearby.debug:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding app.tasknearby.yashcreations.com.tasknearby.debug:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding app.tasknearby.yashcreations.com.tasknearby.debug:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint app.tasknearby.yashcreations.com.tasknearby.debug:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor app.tasknearby.yashcreations.com.tasknearby.debug:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu app.tasknearby.yashcreations.com.tasknearby.debug:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.example.gts.alaram.debug:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.example.gts.alaram.debug:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.example.gts.alaram.debug:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.example.gts.alaram.debug:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.example.gts.alaram.debug:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.example.gts.alaram.debug:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.example.gts.alaram.debug:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.example.gts.alaram.debug:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.example.gts.alaram.debug:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -18027,7 +18008,7 @@ public final class R {
      */
     public static final int NavigationView_android_maxWidth=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#elevation}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18036,11 +18017,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:elevation
+     * @attr name com.example.gts.alaram.debug:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18048,11 +18029,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:headerLayout
+     * @attr name com.example.gts.alaram.debug:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18060,11 +18041,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemBackground
+     * @attr name com.example.gts.alaram.debug:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18073,11 +18054,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemHorizontalPadding
+     * @attr name com.example.gts.alaram.debug:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18086,22 +18067,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemIconPadding
+     * @attr name com.example.gts.alaram.debug:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemIconTint
+     * @attr name com.example.gts.alaram.debug:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18109,22 +18090,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemTextAppearance
+     * @attr name com.example.gts.alaram.debug:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:itemTextColor
+     * @attr name com.example.gts.alaram.debug:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18132,7 +18113,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:menu
+     * @attr name com.example.gts.alaram.debug:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -18144,7 +18125,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor app.tasknearby.yashcreations.com.tasknearby.debug:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.gts.alaram.debug:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -18181,13 +18162,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:overlapAnchor
+     * @attr name com.example.gts.alaram.debug:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -18197,7 +18178,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor app.tasknearby.yashcreations.com.tasknearby.debug:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.gts.alaram.debug:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -18205,13 +18186,13 @@ public final class R {
       0x7f0401c2
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:state_above_anchor
+     * @attr name com.example.gts.alaram.debug:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -18221,8 +18202,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons app.tasknearby.yashcreations.com.tasknearby.debug:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle app.tasknearby.yashcreations.com.tasknearby.debug:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.example.gts.alaram.debug:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.example.gts.alaram.debug:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -18231,7 +18212,7 @@ public final class R {
       0x7f04018a, 0x7f04018d
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18240,11 +18221,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:paddingBottomNoButtons
+     * @attr name com.example.gts.alaram.debug:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18253,7 +18234,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:paddingTopNoTitle
+     * @attr name com.example.gts.alaram.debug:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -18265,15 +18246,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager app.tasknearby.yashcreations.com.tasknearby.debug:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout app.tasknearby.yashcreations.com.tasknearby.debug:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount app.tasknearby.yashcreations.com.tasknearby.debug:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd app.tasknearby.yashcreations.com.tasknearby.debug:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.example.gts.alaram.debug:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.example.gts.alaram.debug:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.example.gts.alaram.debug:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.example.gts.alaram.debug:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.example.gts.alaram.debug:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.example.gts.alaram.debug:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.example.gts.alaram.debug:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.example.gts.alaram.debug:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.example.gts.alaram.debug:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -18328,17 +18309,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollEnabled
+     * @attr name com.example.gts.alaram.debug:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18346,11 +18327,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollHorizontalThumbDrawable
+     * @attr name com.example.gts.alaram.debug:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18358,11 +18339,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollHorizontalTrackDrawable
+     * @attr name com.example.gts.alaram.debug:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18370,11 +18351,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollVerticalThumbDrawable
+     * @attr name com.example.gts.alaram.debug:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18382,46 +18363,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fastScrollVerticalTrackDrawable
+     * @attr name com.example.gts.alaram.debug:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layoutManager
+     * @attr name com.example.gts.alaram.debug:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:reverseLayout
+     * @attr name com.example.gts.alaram.debug:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:spanCount
+     * @attr name com.example.gts.alaram.debug:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:stackFromEnd
+     * @attr name com.example.gts.alaram.debug:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -18431,7 +18412,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground app.tasknearby.yashcreations.com.tasknearby.debug:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.example.gts.alaram.debug:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -18439,7 +18420,7 @@ public final class R {
       0x7f04010f
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18450,7 +18431,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:insetForeground
+     * @attr name com.example.gts.alaram.debug:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -18460,7 +18441,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop app.tasknearby.yashcreations.com.tasknearby.debug:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.example.gts.alaram.debug:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -18468,7 +18449,7 @@ public final class R {
       0x7f04003e
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18477,7 +18458,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:behavior_overlapTop
+     * @attr name com.example.gts.alaram.debug:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -18491,19 +18472,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon app.tasknearby.yashcreations.com.tasknearby.debug:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon app.tasknearby.yashcreations.com.tasknearby.debug:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint app.tasknearby.yashcreations.com.tasknearby.debug:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon app.tasknearby.yashcreations.com.tasknearby.debug:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault app.tasknearby.yashcreations.com.tasknearby.debug:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout app.tasknearby.yashcreations.com.tasknearby.debug:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground app.tasknearby.yashcreations.com.tasknearby.debug:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint app.tasknearby.yashcreations.com.tasknearby.debug:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon app.tasknearby.yashcreations.com.tasknearby.debug:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon app.tasknearby.yashcreations.com.tasknearby.debug:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground app.tasknearby.yashcreations.com.tasknearby.debug:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout app.tasknearby.yashcreations.com.tasknearby.debug:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon app.tasknearby.yashcreations.com.tasknearby.debug:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.example.gts.alaram.debug:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.example.gts.alaram.debug:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.example.gts.alaram.debug:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.example.gts.alaram.debug:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.gts.alaram.debug:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.example.gts.alaram.debug:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.example.gts.alaram.debug:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.example.gts.alaram.debug:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.example.gts.alaram.debug:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.example.gts.alaram.debug:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.example.gts.alaram.debug:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.gts.alaram.debug:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.example.gts.alaram.debug:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -18641,7 +18622,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18649,11 +18630,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:closeIcon
+     * @attr name com.example.gts.alaram.debug:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18661,21 +18642,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:commitIcon
+     * @attr name com.example.gts.alaram.debug:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:defaultQueryHint
+     * @attr name com.example.gts.alaram.debug:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18683,21 +18664,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:goIcon
+     * @attr name com.example.gts.alaram.debug:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:iconifiedByDefault
+     * @attr name com.example.gts.alaram.debug:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18705,11 +18686,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:layout
+     * @attr name com.example.gts.alaram.debug:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18717,21 +18698,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:queryBackground
+     * @attr name com.example.gts.alaram.debug:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:queryHint
+     * @attr name com.example.gts.alaram.debug:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18739,11 +18720,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:searchHintIcon
+     * @attr name com.example.gts.alaram.debug:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18751,11 +18732,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:searchIcon
+     * @attr name com.example.gts.alaram.debug:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18763,11 +18744,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:submitBackground
+     * @attr name com.example.gts.alaram.debug:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18775,11 +18756,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:suggestionRowLayout
+     * @attr name com.example.gts.alaram.debug:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18787,7 +18768,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:voiceIcon
+     * @attr name com.example.gts.alaram.debug:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -18797,9 +18778,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize app.tasknearby.yashcreations.com.tasknearby.debug:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme app.tasknearby.yashcreations.com.tasknearby.debug:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris app.tasknearby.yashcreations.com.tasknearby.debug:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.example.gts.alaram.debug:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.example.gts.alaram.debug:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.example.gts.alaram.debug:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -18809,7 +18790,7 @@ public final class R {
       0x7f040058, 0x7f04009b, 0x7f0401a7
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18827,11 +18808,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonSize
+     * @attr name com.example.gts.alaram.debug:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18849,11 +18830,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:colorScheme
+     * @attr name com.example.gts.alaram.debug:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18863,7 +18844,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:scopeUris
+     * @attr name com.example.gts.alaram.debug:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -18873,8 +18854,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle app.tasknearby.yashcreations.com.tasknearby.debug:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle app.tasknearby.yashcreations.com.tasknearby.debug:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.example.gts.alaram.debug:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.example.gts.alaram.debug:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -18883,7 +18864,7 @@ public final class R {
       0x7f0401b9, 0x7f0401ba
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18891,11 +18872,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:snackbarButtonStyle
+     * @attr name com.example.gts.alaram.debug:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18903,7 +18884,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:snackbarStyle
+     * @attr name com.example.gts.alaram.debug:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -18914,8 +18895,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation app.tasknearby.yashcreations.com.tasknearby.debug:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth app.tasknearby.yashcreations.com.tasknearby.debug:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.example.gts.alaram.debug:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.example.gts.alaram.debug:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -18938,7 +18919,7 @@ public final class R {
      */
     public static final int SnackbarLayout_android_maxWidth=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#elevation}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18947,11 +18928,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:elevation
+     * @attr name com.example.gts.alaram.debug:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18960,7 +18941,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:maxActionInlineWidth
+     * @attr name com.example.gts.alaram.debug:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -18974,7 +18955,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme app.tasknearby.yashcreations.com.tasknearby.debug:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.example.gts.alaram.debug:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -19049,7 +19030,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19057,7 +19038,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:popupTheme
+     * @attr name com.example.gts.alaram.debug:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -19179,17 +19160,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText app.tasknearby.yashcreations.com.tasknearby.debug:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack app.tasknearby.yashcreations.com.tasknearby.debug:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth app.tasknearby.yashcreations.com.tasknearby.debug:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding app.tasknearby.yashcreations.com.tasknearby.debug:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding app.tasknearby.yashcreations.com.tasknearby.debug:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint app.tasknearby.yashcreations.com.tasknearby.debug:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode app.tasknearby.yashcreations.com.tasknearby.debug:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track app.tasknearby.yashcreations.com.tasknearby.debug:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint app.tasknearby.yashcreations.com.tasknearby.debug:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode app.tasknearby.yashcreations.com.tasknearby.debug:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.example.gts.alaram.debug:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.example.gts.alaram.debug:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.gts.alaram.debug:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.example.gts.alaram.debug:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.gts.alaram.debug:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.gts.alaram.debug:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.example.gts.alaram.debug:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.gts.alaram.debug:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.example.gts.alaram.debug:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.example.gts.alaram.debug:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.gts.alaram.debug:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -19245,27 +19226,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:showText
+     * @attr name com.example.gts.alaram.debug:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:splitTrack
+     * @attr name com.example.gts.alaram.debug:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19274,11 +19255,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:switchMinWidth
+     * @attr name com.example.gts.alaram.debug:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19287,11 +19268,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:switchPadding
+     * @attr name com.example.gts.alaram.debug:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19299,11 +19280,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:switchTextAppearance
+     * @attr name com.example.gts.alaram.debug:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19312,22 +19293,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:thumbTextPadding
+     * @attr name com.example.gts.alaram.debug:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:thumbTint
+     * @attr name com.example.gts.alaram.debug:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19344,11 +19325,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:thumbTintMode
+     * @attr name com.example.gts.alaram.debug:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19356,22 +19337,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:track
+     * @attr name com.example.gts.alaram.debug:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:trackTint
+     * @attr name com.example.gts.alaram.debug:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19388,7 +19369,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:trackTintMode
+     * @attr name com.example.gts.alaram.debug:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -19450,31 +19431,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground app.tasknearby.yashcreations.com.tasknearby.debug:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart app.tasknearby.yashcreations.com.tasknearby.debug:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity app.tasknearby.yashcreations.com.tasknearby.debug:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint app.tasknearby.yashcreations.com.tasknearby.debug:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode app.tasknearby.yashcreations.com.tasknearby.debug:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel app.tasknearby.yashcreations.com.tasknearby.debug:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth app.tasknearby.yashcreations.com.tasknearby.debug:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth app.tasknearby.yashcreations.com.tasknearby.debug:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode app.tasknearby.yashcreations.com.tasknearby.debug:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding app.tasknearby.yashcreations.com.tasknearby.debug:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor app.tasknearby.yashcreations.com.tasknearby.debug:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor app.tasknearby.yashcreations.com.tasknearby.debug:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor app.tasknearby.yashcreations.com.tasknearby.debug:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple app.tasknearby.yashcreations.com.tasknearby.debug:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.example.gts.alaram.debug:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.example.gts.alaram.debug:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.example.gts.alaram.debug:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.example.gts.alaram.debug:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.example.gts.alaram.debug:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.example.gts.alaram.debug:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.example.gts.alaram.debug:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.example.gts.alaram.debug:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.example.gts.alaram.debug:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.example.gts.alaram.debug:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.example.gts.alaram.debug:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.example.gts.alaram.debug:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.example.gts.alaram.debug:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.example.gts.alaram.debug:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.example.gts.alaram.debug:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.example.gts.alaram.debug:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.example.gts.alaram.debug:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.example.gts.alaram.debug:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.example.gts.alaram.debug:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.example.gts.alaram.debug:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.example.gts.alaram.debug:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.example.gts.alaram.debug:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.example.gts.alaram.debug:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.example.gts.alaram.debug:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.example.gts.alaram.debug:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -19512,7 +19493,7 @@ public final class R {
       0x7f0401ef
     };
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19520,11 +19501,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabBackground
+     * @attr name com.example.gts.alaram.debug:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19533,11 +19514,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabContentStart
+     * @attr name com.example.gts.alaram.debug:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19550,22 +19531,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabGravity
+     * @attr name com.example.gts.alaram.debug:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIconTint
+     * @attr name com.example.gts.alaram.debug:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19582,11 +19563,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIconTintMode
+     * @attr name com.example.gts.alaram.debug:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19594,41 +19575,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicator
+     * @attr name com.example.gts.alaram.debug:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorAnimationDuration
+     * @attr name com.example.gts.alaram.debug:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorColor
+     * @attr name com.example.gts.alaram.debug:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorFullWidth
+     * @attr name com.example.gts.alaram.debug:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19643,11 +19624,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorGravity
+     * @attr name com.example.gts.alaram.debug:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19656,21 +19637,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabIndicatorHeight
+     * @attr name com.example.gts.alaram.debug:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabInlineLabel
+     * @attr name com.example.gts.alaram.debug:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19679,11 +19660,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabMaxWidth
+     * @attr name com.example.gts.alaram.debug:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19692,11 +19673,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabMinWidth
+     * @attr name com.example.gts.alaram.debug:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19709,11 +19690,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabMode
+     * @attr name com.example.gts.alaram.debug:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19722,11 +19703,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabPadding
+     * @attr name com.example.gts.alaram.debug:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19735,11 +19716,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingBottom
+     * @attr name com.example.gts.alaram.debug:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19748,11 +19729,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingEnd
+     * @attr name com.example.gts.alaram.debug:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19761,11 +19742,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingStart
+     * @attr name com.example.gts.alaram.debug:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19774,33 +19755,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabPaddingTop
+     * @attr name com.example.gts.alaram.debug:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabRippleColor
+     * @attr name com.example.gts.alaram.debug:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabSelectedTextColor
+     * @attr name com.example.gts.alaram.debug:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19808,28 +19789,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabTextAppearance
+     * @attr name com.example.gts.alaram.debug:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabTextColor
+     * @attr name com.example.gts.alaram.debug:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:tabUnboundedRipple
+     * @attr name com.example.gts.alaram.debug:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -19850,8 +19831,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily app.tasknearby.yashcreations.com.tasknearby.debug:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps app.tasknearby.yashcreations.com.tasknearby.debug:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.example.gts.alaram.debug:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.example.gts.alaram.debug:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -20017,17 +19998,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:fontFamily
+     * @attr name com.example.gts.alaram.debug:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20037,7 +20018,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:textAllCaps
+     * @attr name com.example.gts.alaram.debug:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -20049,32 +20030,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor app.tasknearby.yashcreations.com.tasknearby.debug:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode app.tasknearby.yashcreations.com.tasknearby.debug:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop app.tasknearby.yashcreations.com.tasknearby.debug:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor app.tasknearby.yashcreations.com.tasknearby.debug:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth app.tasknearby.yashcreations.com.tasknearby.debug:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled app.tasknearby.yashcreations.com.tasknearby.debug:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength app.tasknearby.yashcreations.com.tasknearby.debug:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled app.tasknearby.yashcreations.com.tasknearby.debug:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText app.tasknearby.yashcreations.com.tasknearby.debug:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled app.tasknearby.yashcreations.com.tasknearby.debug:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled app.tasknearby.yashcreations.com.tasknearby.debug:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled app.tasknearby.yashcreations.com.tasknearby.debug:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.example.gts.alaram.debug:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.example.gts.alaram.debug:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.example.gts.alaram.debug:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.example.gts.alaram.debug:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.example.gts.alaram.debug:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.example.gts.alaram.debug:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.example.gts.alaram.debug:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.example.gts.alaram.debug:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.example.gts.alaram.debug:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.example.gts.alaram.debug:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.example.gts.alaram.debug:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.example.gts.alaram.debug:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.example.gts.alaram.debug:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.example.gts.alaram.debug:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.example.gts.alaram.debug:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.example.gts.alaram.debug:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.example.gts.alaram.debug:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.example.gts.alaram.debug:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.example.gts.alaram.debug:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.example.gts.alaram.debug:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.example.gts.alaram.debug:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.example.gts.alaram.debug:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.example.gts.alaram.debug:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.example.gts.alaram.debug:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.example.gts.alaram.debug:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.example.gts.alaram.debug:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -20140,18 +20121,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxBackgroundColor
+     * @attr name com.example.gts.alaram.debug:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20165,11 +20146,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxBackgroundMode
+     * @attr name com.example.gts.alaram.debug:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20178,11 +20159,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxCollapsedPaddingTop
+     * @attr name com.example.gts.alaram.debug:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20191,11 +20172,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusBottomEnd
+     * @attr name com.example.gts.alaram.debug:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20204,11 +20185,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusBottomStart
+     * @attr name com.example.gts.alaram.debug:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20217,11 +20198,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusTopEnd
+     * @attr name com.example.gts.alaram.debug:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20230,22 +20211,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxCornerRadiusTopStart
+     * @attr name com.example.gts.alaram.debug:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxStrokeColor
+     * @attr name com.example.gts.alaram.debug:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20254,30 +20235,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:boxStrokeWidth
+     * @attr name com.example.gts.alaram.debug:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:counterEnabled
+     * @attr name com.example.gts.alaram.debug:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:counterMaxLength
+     * @attr name com.example.gts.alaram.debug:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20285,11 +20266,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:counterOverflowTextAppearance
+     * @attr name com.example.gts.alaram.debug:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20297,21 +20278,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:counterTextAppearance
+     * @attr name com.example.gts.alaram.debug:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:errorEnabled
+     * @attr name com.example.gts.alaram.debug:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20319,31 +20300,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:errorTextAppearance
+     * @attr name com.example.gts.alaram.debug:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:helperText
+     * @attr name com.example.gts.alaram.debug:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:helperTextEnabled
+     * @attr name com.example.gts.alaram.debug:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20351,31 +20332,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:helperTextTextAppearance
+     * @attr name com.example.gts.alaram.debug:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hintAnimationEnabled
+     * @attr name com.example.gts.alaram.debug:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hintEnabled
+     * @attr name com.example.gts.alaram.debug:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20383,21 +20364,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:hintTextAppearance
+     * @attr name com.example.gts.alaram.debug:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleContentDescription
+     * @attr name com.example.gts.alaram.debug:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20405,32 +20386,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleDrawable
+     * @attr name com.example.gts.alaram.debug:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleEnabled
+     * @attr name com.example.gts.alaram.debug:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleTint
+     * @attr name com.example.gts.alaram.debug:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -20446,7 +20427,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:passwordToggleTintMode
+     * @attr name com.example.gts.alaram.debug:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -20457,8 +20438,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme app.tasknearby.yashcreations.com.tasknearby.debug:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.example.gts.alaram.debug:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.example.gts.alaram.debug:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -20480,23 +20461,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:enforceMaterialTheme
+     * @attr name com.example.gts.alaram.debug:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:enforceTextAppearance
+     * @attr name com.example.gts.alaram.debug:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -20508,33 +20489,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity app.tasknearby.yashcreations.com.tasknearby.debug:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription app.tasknearby.yashcreations.com.tasknearby.debug:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon app.tasknearby.yashcreations.com.tasknearby.debug:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo app.tasknearby.yashcreations.com.tasknearby.debug:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription app.tasknearby.yashcreations.com.tasknearby.debug:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight app.tasknearby.yashcreations.com.tasknearby.debug:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription app.tasknearby.yashcreations.com.tasknearby.debug:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon app.tasknearby.yashcreations.com.tasknearby.debug:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme app.tasknearby.yashcreations.com.tasknearby.debug:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle app.tasknearby.yashcreations.com.tasknearby.debug:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title app.tasknearby.yashcreations.com.tasknearby.debug:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin app.tasknearby.yashcreations.com.tasknearby.debug:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins app.tasknearby.yashcreations.com.tasknearby.debug:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance app.tasknearby.yashcreations.com.tasknearby.debug:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor app.tasknearby.yashcreations.com.tasknearby.debug:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.example.gts.alaram.debug:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.gts.alaram.debug:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.example.gts.alaram.debug:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.gts.alaram.debug:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.gts.alaram.debug:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.gts.alaram.debug:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.example.gts.alaram.debug:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.example.gts.alaram.debug:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.gts.alaram.debug:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.example.gts.alaram.debug:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.example.gts.alaram.debug:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.gts.alaram.debug:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.gts.alaram.debug:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.example.gts.alaram.debug:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.example.gts.alaram.debug:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.example.gts.alaram.debug:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.gts.alaram.debug:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.gts.alaram.debug:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.example.gts.alaram.debug:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.example.gts.alaram.debug:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.gts.alaram.debug:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.gts.alaram.debug:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.example.gts.alaram.debug:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.example.gts.alaram.debug:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.example.gts.alaram.debug:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.gts.alaram.debug:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.example.gts.alaram.debug:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -20619,7 +20600,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -20632,21 +20613,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:buttonGravity
+     * @attr name com.example.gts.alaram.debug:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:collapseContentDescription
+     * @attr name com.example.gts.alaram.debug:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20654,11 +20635,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:collapseIcon
+     * @attr name com.example.gts.alaram.debug:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20667,11 +20648,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEnd
+     * @attr name com.example.gts.alaram.debug:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20680,11 +20661,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetEndWithActions
+     * @attr name com.example.gts.alaram.debug:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20693,11 +20674,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetLeft
+     * @attr name com.example.gts.alaram.debug:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20706,11 +20687,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetRight
+     * @attr name com.example.gts.alaram.debug:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20719,11 +20700,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStart
+     * @attr name com.example.gts.alaram.debug:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20732,11 +20713,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:contentInsetStartWithNavigation
+     * @attr name com.example.gts.alaram.debug:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20744,21 +20725,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:logo
+     * @attr name com.example.gts.alaram.debug:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:logoDescription
+     * @attr name com.example.gts.alaram.debug:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20767,21 +20748,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:maxButtonHeight
+     * @attr name com.example.gts.alaram.debug:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:navigationContentDescription
+     * @attr name com.example.gts.alaram.debug:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20789,11 +20770,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:navigationIcon
+     * @attr name com.example.gts.alaram.debug:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20801,21 +20782,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:popupTheme
+     * @attr name com.example.gts.alaram.debug:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subtitle
+     * @attr name com.example.gts.alaram.debug:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20823,32 +20804,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextAppearance
+     * @attr name com.example.gts.alaram.debug:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:subtitleTextColor
+     * @attr name com.example.gts.alaram.debug:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:title
+     * @attr name com.example.gts.alaram.debug:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20857,11 +20838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleMargin
+     * @attr name com.example.gts.alaram.debug:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20870,11 +20851,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginBottom
+     * @attr name com.example.gts.alaram.debug:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20883,11 +20864,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginEnd
+     * @attr name com.example.gts.alaram.debug:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20896,11 +20877,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginStart
+     * @attr name com.example.gts.alaram.debug:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20909,11 +20890,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleMarginTop
+     * @attr name com.example.gts.alaram.debug:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20922,11 +20903,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleMargins
+     * @attr name com.example.gts.alaram.debug:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20934,18 +20915,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleTextAppearance
+     * @attr name com.example.gts.alaram.debug:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:titleTextColor
+     * @attr name com.example.gts.alaram.debug:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -20957,9 +20938,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd app.tasknearby.yashcreations.com.tasknearby.debug:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart app.tasknearby.yashcreations.com.tasknearby.debug:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme app.tasknearby.yashcreations.com.tasknearby.debug:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.example.gts.alaram.debug:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.example.gts.alaram.debug:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.example.gts.alaram.debug:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -21002,7 +20983,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21011,11 +20992,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:paddingEnd
+     * @attr name com.example.gts.alaram.debug:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21024,11 +21005,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:paddingStart
+     * @attr name com.example.gts.alaram.debug:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21036,7 +21017,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:theme
+     * @attr name com.example.gts.alaram.debug:theme
      */
     public static final int View_theme=4;
     /**
@@ -21047,8 +21028,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.gts.alaram.debug:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.gts.alaram.debug:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -21073,18 +21054,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTint
+     * @attr name com.example.gts.alaram.debug:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link app.tasknearby.yashcreations.com.tasknearby.debug.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.example.gts.alaram.debug.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -21101,7 +21082,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name app.tasknearby.yashcreations.com.tasknearby.debug:backgroundTintMode
+     * @attr name com.example.gts.alaram.debug:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

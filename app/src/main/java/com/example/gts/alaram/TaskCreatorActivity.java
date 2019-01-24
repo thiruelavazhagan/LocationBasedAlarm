@@ -73,7 +73,7 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
     private static final int REQUEST_CODE_GALLERY_IMAGE_PICKER = 4;
 
     private EditText taskNameInput;
-    private EditText locationNameInput;
+    private TextView locationNameInput;
     private EditText reminderRangeInput;
     private EditText noteInput;
     private TextView startTimeTv, endTimeTv;
@@ -223,15 +223,7 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
             timeIntervalLayout.setVisibility((isChecked) ? View.GONE : View.VISIBLE);
         }));
 
-        // setting time interval tags with default value
-        startTimeTv.setTag(new LocalTime(0, 0));
-        endTimeTv.setTag(new LocalTime(23, 59));
 
-        // setting date interval tags with default value
-        startDateTv.setTag(new LocalDate());
-        endDateTv.setTag(null);
-
-        // setting repeat switch
         repeatSwitch.setOnCheckedChangeListener((buttonView, isChecked) ->
                 weekdaysStub.setVisibility(isChecked ? View.VISIBLE : View.GONE));
 
@@ -356,7 +348,7 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
      */
     private void onLocationSelected() {
         locationNameInput.setText(mSelectedLocation.getPlaceName());
-        locationNameInput.setVisibility(View.VISIBLE);
+
     }
 
 
@@ -428,22 +420,17 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
         if (taskBeingEdited == null) {
             // add new task.
             mTaskRepository.saveTask(task);
-            logAnalytics(task);
+
         } else {
             // update task.
             task.setId(taskBeingEdited.getId());
             mTaskRepository.updateTask(task);
         }
-        // Service is restarted to update tasks distance and accordingly trigger
-        // alarm/notification at that instant.
-        // TODO: This is not the optimized way. Change this later.
+
         restartService();
         finish();
     }
 
-    /**
-     * Restarts service.
-     */
     private void restartService() {
         SharedPreferences defaultPref = PreferenceManager.getDefaultSharedPreferences(this);
         boolean isAppEnabled = defaultPref.getString(getString(R.string.pref_status_key),
@@ -456,28 +443,6 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
     }
 
 
-    /**
-     * Log task creation events.
-     */
-    private void logAnalytics(TaskModel task) {
-        Bundle bundle = new Bundle();
-        bundle.putString(AnalyticsConstants.ANALYTICS_PARAM_START_TIME, task.getStartTime()
-                .toString());
-        bundle.putString(AnalyticsConstants.ANALYTICS_PARAM_END_TIME, task.getEndTime().toString());
-        boolean isDeadlineSet = task.getEndDate() != null;
-        bundle.putBoolean(AnalyticsConstants.ANALYTICS_PARAM_IS_DEADLINE_SET, isDeadlineSet);
-        boolean isNoteAdded = task.getNote() != null;
-        bundle.putBoolean(AnalyticsConstants.ANALYTICS_PARAM_IS_NOTE_ADDED, isNoteAdded);
-        boolean isAnytimeOn = anytimeSwitch.isChecked();
-        bundle.putBoolean(AnalyticsConstants.ANALYTICS_PARAM_IS_ANYTIME_SET, isAnytimeOn);
-        mFirebaseAnalytics.logEvent(AnalyticsConstants.ANALYTICS_SAVE_NEW_TASK, bundle);
-    }
-
-    /**
-     * When we've a task that is being edited, we've to fill it's attributes into the input fields.
-     *
-     * @param task The task that is being edited.
-     */
     private void fillDataForEditing(final TaskModel task) {
         taskNameInput.setText(task.getTaskName());
         // Set location
@@ -499,39 +464,14 @@ public class TaskCreatorActivity extends AppCompatActivity implements View.OnCli
         boolean anytime = task.getStartTime().equals(new LocalTime(0, 0))
                 && task.getEndTime().equals(new LocalTime(23, 59));
         anytimeSwitch.setChecked(anytime);
-        startTimeTv.setText(AppUtils.getReadableTime(this, task.getStartTime()));
-        endTimeTv.setText(AppUtils.getReadableTime(this, task.getEndTime()));
-        startTimeTv.setTag(task.getStartTime());
-        endTimeTv.setTag(task.getEndTime());
 
-        // Set date.
-        startDateTv.setText(AppUtils.getReadableLocalDate(this, task.getStartDate()));
-        endDateTv.setText(AppUtils.getReadableLocalDate(this, task.getEndDate()));
-        startDateTv.setTag(task.getStartDate());
-        endDateTv.setTag(task.getEndDate());
 
         // Repeat options.
-        repeatSwitch.setChecked(task.getRepeatType() == DbConstants.REPEAT_DAILY);
-        if (wds != null) {
-            int repeatCode = task.getRepeatCode();
-            weekdaysStub.setTag(repeatCode);
-            // Get the day indices to repeat.
-            ArrayList<Integer> dayIndices = WeekdayCodeUtils.getDayIndexListToRepeat(repeatCode);
-            for (int day : dayIndices) {
-                wds.setSelectedDays(day - 1);
-            }
+
         }
 
-        // Alarm switch
-        alarmSwitch.setChecked(task.getIsAlarmSet() != 0);
-        // Cover image
-        if (task.getImageUri() != null) {
-            taskImageView.setVisibility(View.VISIBLE);
-            taskImageView.setImageURI(Uri.parse(task.getImageUri()));
-            taskImageView.setTag(task.getImageUri());
-        }
-        mFirebaseAnalytics.logEvent(AnalyticsConstants.ANALYTICS_EDIT_TASK, new Bundle());
-    }
+
+
 
 
     @Override

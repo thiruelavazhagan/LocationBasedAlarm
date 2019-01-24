@@ -1,4 +1,4 @@
-app.tasknearby.yashcreations.com.tasknearby.debug
+com.example.gts.alaram.debug
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1179,6 +1179,7 @@ drawable ic_launcher_web
 drawable ic_list_grey_700_24dp
 drawable ic_location_on_red_a400_24dp
 drawable ic_location_on_red_a400_36dp
+drawable ic_location_searching_black_24dp
 drawable ic_lock_outline_grey_600_48dp
 drawable ic_map_grey_700_24dp
 drawable ic_marker_red_a400_36dp
@@ -1283,7 +1284,6 @@ id alignBounds
 id alignMargins
 id all
 id always
-id appNameTv
 id app_bar_layout
 id async
 id auto
@@ -1292,14 +1292,9 @@ id beginning
 id blocking
 id bottom
 id btn_action_done
-id btn_next
-id btn_skip
 id buttonPanel
-id button_cross
 id button_delete
 id button_mark_done
-id button_pick_from_map
-id button_purchase
 id button_save
 id button_upgrade_attachment
 id button_upgrade_schedule
@@ -1394,10 +1389,8 @@ id icon_repeat
 id icon_time
 id ifRoom
 id image
-id imageView
 id imageView3
 id imageView5
-id imageView7
 id image_heart
 id image_launcher
 id image_selected_image
@@ -1407,7 +1400,6 @@ id italic
 id item_touch_helper_previous_elevation
 id labeled
 id largeLabel
-id layoutDots
 id layout_content_attachment
 id layout_content_schedule
 id layout_date
@@ -1425,7 +1417,6 @@ id line1
 id line3
 id linearLayout2
 id listMode
-id listView
 id list_item
 id ll_premium_overlay_lock_attachment
 id ll_premium_overlay_lock_schedule
@@ -1467,7 +1458,6 @@ id place_autocomplete_separator
 id progress_circular
 id progress_horizontal
 id radio
-id recycler_saved_places
 id recycler_view_location
 id recycler_view_tasks
 id right
@@ -1536,7 +1526,6 @@ id textSpacerNoTitle
 id textStart
 id textView
 id textView14
-id textView8
 id text_alarm
 id text_app_name
 id text_app_version
@@ -1551,7 +1540,6 @@ id text_input_password_toggle
 id text_item_name
 id text_last_distance
 id text_location_name
-id text_no_locations
 id text_privacy_policy
 id text_reminder_range
 id text_state
@@ -1586,10 +1574,8 @@ id unlabeled
 id up
 id useLogo
 id vertical
-id view2
 id viewStub_repeat
 id view_offset_helper
-id view_pager
 id visible
 id weekday_view
 id weekdays_recycler_view
@@ -1646,16 +1632,11 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
-layout activity_about
 layout activity_alarm
 layout activity_detail
 layout activity_main2
-layout activity_onboarding
-layout activity_saved_places
 layout activity_settings
-layout activity_show_image
 layout activity_task_creator
-layout activity_upgrade
 layout content_creator_attachment
 layout content_creator_essentials
 layout content_creator_schedule

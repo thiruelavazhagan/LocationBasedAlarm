@@ -81,13 +81,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView
         super.onCreate(savedInstanceState);
 
 
-        if (!AppUtils.hasUserSeenOnboarding(this)) {
-            startActivity(new Intent(this, OnboardingActivity.class));
-            // For preventing multiple instances of MainActivity and permission dialog on
-            // onboarding screen.
-            finish();
-        }
-
         setContentView(R.layout.activity_main2);
         // Device's location settings.
         mSettingsClient = LocationServices.getSettingsClient(this);
